@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#01696f"/>
-  <circle cx="220" cy="220" r="88" fill="none" stroke="#f7f6f2" stroke-width="28"/>
-  <line x1="288" y1="288" x2="380" y2="380" stroke="#f7f6f2" stroke-width="32" stroke-linecap="round"/>
-  <path d="M180 200 Q220 160 260 200" fill="none" stroke="#f7f6f2" stroke-width="16" stroke-linecap="round"/>
-  <path d="M180 230 Q220 190 260 230" fill="none" stroke="#f7f6f2" stroke-width="16" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#f4efe6"/>
+  <rect x="40" y="40" width="432" height="432" rx="72" fill="none" stroke="#c4981a" stroke-width="2" stroke-dasharray="4 6" opacity="0.75"/>
+  <text x="256" y="388" font-family="Georgia, 'Times New Roman', serif" font-size="380" font-style="italic" font-weight="700" text-anchor="middle" fill="#1a1a1a">S</text>
+  <text x="440" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" font-weight="700" text-anchor="middle" fill="#7a1e2b" letter-spacing="1">1:1</text>
 </svg>

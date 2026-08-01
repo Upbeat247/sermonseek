@@ -8,7 +8,9 @@
   <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
   <meta name="theme-color" content="#f7f6f2" media="(prefers-color-scheme: light)">
   <link rel="manifest" href="manifest.json">
-  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/favicon.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700,800&f[]=satoshi@400,500,700&display=swap" rel="stylesheet">
   <style>
     /* === WARM EDITORIAL THEME === */
@@ -129,9 +131,14 @@
     .brand {
       font-family: var(--font-display); font-weight: 800;
       font-size: 1.25rem; letter-spacing: -0.02em;
-      display: flex; align-items: center; gap: 0.5rem;
+      display: flex; align-items: center; gap: 0.55rem;
+      color: var(--text-primary);
     }
-    .brand-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--teal); }
+    .brand-mark {
+      width: 26px; height: 26px; flex: 0 0 auto;
+      display: inline-flex; align-items: center; justify-content: center;
+    }
+    .brand-mark svg { width: 100%; height: 100%; display: block; }
     .nav-tabs { display: flex; gap: 0.25rem; }
     .nav-tab {
       padding: 0.5rem 0.9rem; border-radius: var(--radius-sm);
@@ -453,7 +460,13 @@
   <header class="app-header">
     <div class="app-header-inner">
       <a class="brand" onclick="navigate('#/')" style="cursor:pointer">
-        <span class="brand-dot"></span>
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+            <rect width="512" height="512" rx="96" fill="#f4efe6"/>
+            <rect x="40" y="40" width="432" height="432" rx="72" fill="none" stroke="#c4981a" stroke-width="6" stroke-dasharray="14 20" opacity="0.85"/>
+            <text x="256" y="388" font-family="Georgia, 'Times New Roman', serif" font-size="380" font-style="italic" font-weight="700" text-anchor="middle" fill="#1a1a1a">S</text>
+          </svg>
+        </span>
         <span class="brand-label">SermonSeek</span>
       </a>
       <nav class="nav-tabs">

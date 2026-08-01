@@ -2,40 +2,775 @@
   "pastor": "iren",
   "sermons": [
     {
-      "video_id": "SAMPLE_iren_identity",
-      "title": "Who You Are in Christ",
-      "published_at": "2024-03-10",
-      "duration_sec": 3600,
-      "view_count": 175000,
-      "primary_theme": "identity",
-      "themes": ["identity in Christ", "grace", "sonship"],
-      "key_scriptures": ["2 Corinthians 5:17", "Ephesians 1:3-6", "Galatians 2:20"],
+      "video_id": "j5CmVBUfqxc",
+      "title": "PAIN PLEASURE AND PURPOSE | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-09-18T16:00:07Z",
+      "duration_sec": 5251,
+      "view_count": 189570,
+      "primary_theme": "purpose over pleasure",
+      "themes": [
+        "purpose",
+        "faith",
+        "trials and testing",
+        "worship and praise",
+        "kingdom first",
+        "distraction from purpose"
+      ],
+      "key_scriptures": [
+        "Matthew 6:25",
+        "Matthew 6:33",
+        "Matthew 4:1-4",
+        "James 1:2-4",
+        "Genesis 20-21",
+        "Philippians 2:5-11",
+        "Romans 8:37",
+        "Psalm 23:5-6",
+        "John 10:10"
+      ],
       "summary": [
-        "Your identity is not what you feel or what people say — it's what God says.",
-        "Every believer is a new creation with a new nature and new authority.",
-        "Right believing about identity produces right living."
+        "The devil's primary goal is to distract believers from their God-given purpose through either abundance or lack, and Jesus exemplified resisting this temptation by prioritizing kingdom purpose over personal needs.",
+        "Believers must learn to seek God's kingdom first despite life's trials, maintaining purpose and ministry even when facing personal struggles, as demonstrated by biblical figures like Abraham, Joseph, and Paul.",
+        "True greatness in God's kingdom comes through humble service, consistent character, and unwavering praise regardless of circumstances, with the assurance that God fights for those who prioritize His purpose above their pain."
       ],
       "tone": "teaching",
-      "difficulty": "intro",
-      "sample": true
+      "difficulty": "intermediate"
     },
     {
-      "video_id": "SAMPLE_iren_purpose",
-      "title": "Living With Purpose in Your Generation",
-      "published_at": "2023-09-15",
-      "duration_sec": 3300,
-      "view_count": 120000,
-      "primary_theme": "purpose",
-      "themes": ["purpose", "kingdom", "generation"],
-      "key_scriptures": ["Acts 13:36", "Esther 4:14", "Ephesians 2:10"],
+      "video_id": "IgyAYG5D8fM",
+      "title": "HOW TO PRAY DAILY | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-02-11T15:00:06Z",
+      "duration_sec": 5715,
+      "view_count": 173938,
+      "primary_theme": "grace and humility",
+      "themes": [
+        "grace",
+        "humility",
+        "devotion",
+        "worship",
+        "faith",
+        "brokenness"
+      ],
+      "key_scriptures": [
+        "Romans 5:17",
+        "Galatians 3:1-3",
+        "Matthew 5:3",
+        "Luke 14:11",
+        "James 4:6",
+        "1 Peter 5:6",
+        "2 Chronicles 7:14",
+        "Psalm 35:13",
+        "Luke 12",
+        "Genesis 11",
+        "Deuteronomy 8",
+        "Matthew 4:4",
+        "John 1:1"
+      ],
       "summary": [
-        "Every generation has an assignment God intends to fulfil through willing believers.",
-        "Serving your generation begins with discovering your specific grace.",
-        "Consistency and character make purpose sustainable."
+        "The pastor teaches that grace, not works, is the foundation of ministry and spiritual life, and that believers often forget this truth despite repeatedly witnessing God's faithfulness.",
+        "Daily devotion must be rooted in gospel consciousness and brokenness before God, demonstrated through prayer, fasting, and worship that prioritize God above all else.",
+        "Humility is essential for spiritual growth and divine promotion; pride invites God's resistance, while those who humble themselves will be exalted in due time."
       ],
       "tone": "teaching",
-      "difficulty": "intermediate",
-      "sample": true
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "LTgq26b4YKc",
+      "title": "SPIRITUAL SOFT SKILS | THE HACK FOR 2026 | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-12-31T17:30:06Z",
+      "duration_sec": 3872,
+      "view_count": 166093,
+      "primary_theme": "spiritual soft skills",
+      "themes": [
+        "honor",
+        "relationships",
+        "bravery",
+        "character",
+        "personal development",
+        "favor"
+      ],
+      "key_scriptures": [
+        "Genesis 18:1-8",
+        "1 Samuel 16:1-13",
+        "1 Samuel 17:1-58",
+        "Esther 7:1-10",
+        "2 Kings 7:3-16",
+        "1 Kings 19:1-8",
+        "Hebrews 13:2",
+        "Proverbs 22:29"
+      ],
+      "summary": [
+        "The sermon teaches that spiritual success depends not only on prayer and fasting but on 'spiritual soft skills'—character qualities like honor, bravery, common sense, emotional intelligence, and teachability that position people for God's favor and advancement.",
+        "Using biblical examples (Abraham's hospitality, David's loyalty, Joseph's compassion, Esther's boldness), the pastor demonstrates how relational and character-based soft skills often determine destiny more than hard work or anointing alone.",
+        "Practical applications include giving thoughtful gifts to key relationships, taking bold steps despite fear, maintaining physical and emotional health, managing emotions wisely, and remaining open to feedback and continuous improvement."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "5xL651NqNcE",
+      "title": "EMOTIONAL INTELLIGENCE FOR LASTING LOVE PART 1 | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-02-17T13:30:06Z",
+      "duration_sec": 6078,
+      "view_count": 111369,
+      "primary_theme": "emotional intelligence",
+      "themes": [
+        "emotional intelligence",
+        "emotional regulation",
+        "marriage",
+        "discipleship",
+        "character development",
+        "conflict resolution"
+      ],
+      "key_scriptures": [
+        "James 4:1",
+        "Genesis 22:19",
+        "Genesis 23:1-2",
+        "Genesis 50:20",
+        "1 Timothy 3:4-5"
+      ],
+      "summary": [
+        "Emotional intelligence—the ability to perceive, interpret, regulate, and respond to emotions wisely—is essential for Christian maturity and healthy relationships, distinct from spiritual giftedness alone.",
+        "Being a Christian requires discipleship and character transformation, not merely belief; believers must intentionally develop emotional maturity through practice, trauma healing, study, and prayer to avoid compartmentalizing their spiritual and relational lives.",
+        "Owning your emotional responses, understanding hidden insecurities, practicing difficult conversations, and learning to discern others' motives are practical steps toward becoming emotionally mature and building lasting, healthy marriages."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "2j6a-p9MdVc",
+      "title": "MARRIAGE IS A BUSINESS DECISION | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-02-11T17:45:06Z",
+      "duration_sec": 3761,
+      "view_count": 98392,
+      "primary_theme": "marriage discernment",
+      "themes": [
+        "marriage",
+        "discernment",
+        "wisdom",
+        "red flags",
+        "relationships",
+        "decision-making"
+      ],
+      "key_scriptures": [
+        "Luke 14:28",
+        "1 Corinthians 13:11",
+        "Proverbs 11:14"
+      ],
+      "summary": [
+        "Marriage is a critical life decision with serious consequences—not merely romantic but a business choice that affects health, finances, career, and safety.",
+        "Believers must exercise wisdom and discernment when choosing a spouse, investigating family background, health history, financial status, and personality compatibility rather than relying on emotions alone.",
+        "Red flags including controlling behavior, excessive anger, isolation tactics, emotional abuse, and financial manipulation should be recognized and avoided before commitment."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "0sgOAznuvho",
+      "title": "HAVING A BIBLICAL WORLDVIEW | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-07-09T16:00:06Z",
+      "duration_sec": 3164,
+      "view_count": 94413,
+      "primary_theme": "biblical authority",
+      "themes": [
+        "biblical authority",
+        "orthodoxy",
+        "faith and works",
+        "accountability",
+        "scriptural foundation",
+        "doctrine"
+      ],
+      "key_scriptures": [
+        "2 Timothy 3:16-17",
+        "Psalm 33:6",
+        "Hebrews 1:3",
+        "John 4:24",
+        "1 Timothy 5:8",
+        "2 Timothy 3:10-14",
+        "Hebrews 4:12"
+      ],
+      "summary": [
+        "The sermon establishes that Scripture alone holds final authority in all matters of faith, doctrine, and practice, and that this conviction must shape how believers understand and live out their faith.",
+        "Christianity must be demonstrative—evidenced by tangible works of faith and obedience—and believers cannot hide behind grace while neglecting accountability and righteous living.",
+        "The Word of God serves as doctrine, conviction, correction, and instruction in righteousness, building and furnishing believers for every good work and requiring them to maintain biblical convictions even when culture opposes them."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "gc3wrIbwliw",
+      "title": "TIME AND CHANCE | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-06-24T16:00:06Z",
+      "duration_sec": 4639,
+      "view_count": 93480,
+      "primary_theme": "divine timing and purpose",
+      "themes": [
+        "divine purpose",
+        "timing and seasons",
+        "faith and obedience",
+        "discernment",
+        "spiritual maturity",
+        "God's will"
+      ],
+      "key_scriptures": [
+        "John 6:1-14",
+        "Matthew 4:3-4",
+        "James 4:3",
+        "Exodus 3:7",
+        "Exodus 12:40-41",
+        "Genesis 15:13-14",
+        "Acts 2:1-4",
+        "Joshua 5:11-12",
+        "Daniel 9:2",
+        "Jeremiah 31:33",
+        "Ecclesiastes 9:11",
+        "1 Samuel 15:22"
+      ],
+      "summary": [
+        "God's purposes operate on three levels: immutable decrees, conditional purposes responsive to prayer and obedience, and temporary seasonal purposes that require spiritual discernment to recognize when they have ended.",
+        "True spiritual genius lies not in prayer intensity or fasting alone, but in understanding divine timing and aligning oneself with God's current direction, as demonstrated throughout Scripture from Moses to Joseph to the early church at Pentecost.",
+        "Believers must cultivate sensitivity to recognize when God has moved from one season to another, cast their cares on Him, prepare through faithful use of time, allow Him to redirect their plans, and practice radical obedience to His specific timing rather than their own ambitions."
+      ],
+      "tone": "teaching",
+      "difficulty": "deep"
+    },
+    {
+      "video_id": "m7q5iLMOtvc",
+      "title": "LOVE OUT OF SEASON | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-03-23T15:00:06Z",
+      "duration_sec": 6989,
+      "view_count": 92594,
+      "primary_theme": "covenant marriage",
+      "themes": [
+        "covenant vs contract",
+        "love out of season",
+        "emotional regulation",
+        "biblical submission",
+        "marriage compatibility",
+        "conflict resolution",
+        "spiritual leadership in marriage"
+      ],
+      "key_scriptures": [
+        "Genesis 2:24",
+        "Ephesians 5:25",
+        "Ephesians 5:22",
+        "1 Corinthians 7:3",
+        "Ephesians 6:1-3",
+        "Matthew 5:44",
+        "1 Peter 3:7"
+      ],
+      "summary": [
+        "Marriage is a covenant before God, not a contract between two people, requiring unconditional commitment and love even in difficult seasons.",
+        "True compatibility depends on how couples handle conflict, repair after disagreements, and emotional regulation—not just shared interests or attraction.",
+        "Believers must practice loving difficult people consistently, including family members and spouses, to develop the sacrificial love Christ demonstrated and to maintain marriages through inevitable winter seasons."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "MeTKbbesc7s",
+      "title": "BY FAITH WE UNDERSTAND! | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-09-24T15:30:06Z",
+      "duration_sec": 3530,
+      "view_count": 91713,
+      "primary_theme": "faith as perspective",
+      "themes": [
+        "faith",
+        "living by the spirit",
+        "identity in christ",
+        "supernatural reality",
+        "overcoming obstacles",
+        "endurance"
+      ],
+      "key_scriptures": [
+        "Hebrews 11:3",
+        "Hebrews 11:11",
+        "Hebrews 11:12",
+        "Hebrews 11:29",
+        "Hebrews 11:30",
+        "Hebrews 10:36",
+        "Hebrews 10:35",
+        "Hebrews 12:1",
+        "1 John 5:4",
+        "Romans 8:31"
+      ],
+      "summary": [
+        "Faith is a different economy and perspective that opens access to supernatural realities beyond natural facts and limitations, functioning like a decoder that reveals new dimensions of God's power and possibility.",
+        "Believers must deliberately choose to live by the spirit and develop personal faith experiences rather than depending solely on pastors or natural understanding, learning to insist on God's word even when circumstances appear impossible.",
+        "True faith is unyielding loyalty and stubbornness toward God's promises that persists through opposition, suffering, and delayed manifestation, ultimately importing heavenly realities into earthly existence."
+      ],
+      "tone": "teaching",
+      "difficulty": "deep"
+    },
+    {
+      "video_id": "St2DjJ6Kx0o",
+      "title": "WALK ON WATER | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-01-22T16:00:06Z",
+      "duration_sec": 4525,
+      "view_count": 91503,
+      "primary_theme": "divine help",
+      "themes": [
+        "faith",
+        "supernatural power",
+        "identity in Christ",
+        "overcoming obstacles",
+        "God's faithfulness",
+        "walking in authority"
+      ],
+      "key_scriptures": [
+        "Hebrews 1:4",
+        "Hebrews 7:22",
+        "Hebrews 8:6",
+        "Hebrews 9:23",
+        "Hebrews 12:24",
+        "Matthew 14:22-33",
+        "Mark 6:48",
+        "John 6:32",
+        "Psalm 32:10",
+        "Psalm 20:7-8",
+        "Psalm 23:4-6",
+        "Exodus 3:14",
+        "Mark 11:23",
+        "Luke 10:19"
+      ],
+      "summary": [
+        "Jesus walked on water to reveal his divine nature and superiority over all creation, inviting believers to participate in supernatural power rather than merely observe it.",
+        "Christians must shift from passive belief in God's power to active faith that positions them to walk on the very obstacles that drown others, requiring bold steps and audacity.",
+        "The Ebenezer theology teaches that God demonstrates dramatic, supernatural help in believers' lives when they embrace their covenant identity and respond to divine prompting despite natural circumstances."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "-hyZ9eokM0U",
+      "title": "COMPASS | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-01-30T14:30:06Z",
+      "duration_sec": 4364,
+      "view_count": 88058,
+      "primary_theme": "discipleship and imitation",
+      "themes": [
+        "discipleship",
+        "imitation of Christ",
+        "sacrifice and devotion",
+        "divine guidance",
+        "covenant relationship",
+        "faith and trust"
+      ],
+      "key_scriptures": [
+        "Philippians 2:5-7",
+        "John 3:16",
+        "1 John 3:16",
+        "Ephesians 5:1",
+        "Matthew 5:48",
+        "Ephesians 1:7",
+        "Luke 6:36",
+        "Matthew 6:33",
+        "Deuteronomy 8:18",
+        "Psalm 23:2-3",
+        "Psalm 37:23",
+        "Proverbs 3:5-6",
+        "Isaiah 48:17",
+        "Romans 8:28"
+      ],
+      "summary": [
+        "True Christianity is not merely believing in Jesus for salvation but imitating Christ through transformed character and sacrificial living, as demonstrated by the early church who were called Christians because of how they acted like Christ.",
+        "Believers must move beyond passive faith to active emulation of Christ's attributes—his forgiveness, love, mercy, and willingness to sacrifice—understanding that God expects progressive spiritual growth and transformation in daily life.",
+        "Divine help operates through three categories: sovereign help (God's grace without condition), evangelical help (God's miracles to draw people into relationship), and covenant help (God's faithful guidance and provision for those in relationship with Him who expect and anticipate His leading)."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "ufXSfsNMaNM",
+      "title": "YOU CAN MAKE YOUR BRAIN LOVE WHAT IT CURRENTLY HATES | PRODUCTIVITY HACK",
+      "published_at": "2026-01-30T16:00:11Z",
+      "duration_sec": 1209,
+      "view_count": 80745,
+      "primary_theme": "digital distraction",
+      "themes": [
+        "focus",
+        "discipline",
+        "mental health",
+        "technology addiction",
+        "brain rewiring",
+        "productivity"
+      ],
+      "key_scriptures": [],
+      "summary": [
+        "Digital distraction through phones and social media is destroying productivity and mental health, costing people months of lost work annually and triggering existential avoidance.",
+        "The brain's dopamine system can be retrained through neuroplasticity; identifying high-stimulation sources, taking deliberate breaks, and designing environments that support focus are essential strategies.",
+        "Practical solutions include deleting addictive apps, establishing phone-free zones and times, avoiding multitasking, and starting with small measurable improvements rather than extreme overhauls."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "T0zGdox9OpI",
+      "title": "HOW TO PRAY DURING A RETREAT | APOSTLE EMMANUEL IREN",
+      "published_at": "2024-11-12T17:00:06Z",
+      "duration_sec": 3743,
+      "view_count": 59047,
+      "primary_theme": "prayer and God's will",
+      "themes": [
+        "prayer",
+        "God's will",
+        "divine protection",
+        "discernment",
+        "consecration",
+        "spiritual growth",
+        "surrender"
+      ],
+      "key_scriptures": [
+        "Luke 11:1-4",
+        "James 5:11",
+        "Job 1:7",
+        "1 Peter 5:8",
+        "Psalm 106:14-15",
+        "Ezekiel 36:37",
+        "Acts 13:1-2",
+        "Job 33:14",
+        "Deuteronomy 8:3",
+        "Psalm 91:11-12"
+      ],
+      "summary": [
+        "The sermon teaches that effective prayer centers on discovering and aligning with God's will rather than enforcing personal agendas, using the Lord's Prayer as the foundational model.",
+        "Through the story of Job, the speaker demonstrates that God's compassion is the intended end, and that divine protection comes through prayer and spiritual vigilance, not mere sincerity or good works.",
+        "Believers must learn to surrender their plans to God, seek His direction through worship and fasting, and recognize that Satan operates with limitations while God guides those who remain spiritually attentive."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "bK49bXc1UBo",
+      "title": "ALTARS | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-01-15T16:00:06Z",
+      "duration_sec": 6444,
+      "view_count": 58443,
+      "primary_theme": "divine help",
+      "themes": [
+        "altars",
+        "spiritual warfare",
+        "generational blessing",
+        "faith",
+        "consecration",
+        "prayer"
+      ],
+      "key_scriptures": [
+        "1 Samuel 7:10",
+        "Hebrews 11:3",
+        "Hebrews 4:14",
+        "Hebrews 6:19",
+        "Hebrews 8:1-2",
+        "Hebrews 9:24",
+        "Hebrews 13:15",
+        "Romans 12:1",
+        "James 4:7",
+        "Leviticus 6:12",
+        "Judges 13:12",
+        "Genesis 28:12"
+      ],
+      "summary": [
+        "The sermon explains that altars in the Old Testament were spiritual programs that opened gateways between heaven and earth, and that believers today have access to divine help through Christ as their eternal High Priest rather than physical altars.",
+        "The pastor teaches that success in life is not determined by hard work alone but by divine mercy and intervention, and that generational covenants—both righteous and demonic—affect families across generations.",
+        "In the New Testament, believers establish spiritual altars through confession of Christ's lordship, consecration of their bodies as living sacrifices, and daily prayer and worship that invite God's intervention in their lives."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "lmCnR9bSxYg",
+      "title": "NEW YEAR HACK | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-01-02T17:45:06Z",
+      "duration_sec": 4282,
+      "view_count": 56704,
+      "primary_theme": "personal transformation",
+      "themes": [
+        "personal transformation",
+        "intentional action",
+        "prayer and communion",
+        "financial stewardship",
+        "relationships and honor",
+        "discipline and change"
+      ],
+      "key_scriptures": [
+        "Romans 1:20",
+        "Genesis 1:1-3",
+        "Ecclesiastes 1:4-9",
+        "Acts 13:2"
+      ],
+      "summary": [
+        "Change requires external force and intentional action; the passage of time alone does not improve life without deliberate effort and radical decisions.",
+        "Prayer operates on four levels: communion with God, revelation through knowledge, wisdom for direction, and action—but prayer must be paired with personal initiative and behavioral change.",
+        "Financial resources are not a luxury but a necessity for blessing others and navigating life's emergencies; relationships, gifts, and strategic planning are key to sustainable prosperity."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "v2nTHTovK8Y",
+      "title": "PRAYER AS AN ANCHOR | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-05-14T15:30:06Z",
+      "duration_sec": 4052,
+      "view_count": 53250,
+      "primary_theme": "spiritual warfare",
+      "themes": [
+        "spiritual warfare",
+        "backsliding",
+        "faith under attack",
+        "prayer life",
+        "devotion to God",
+        "discernment"
+      ],
+      "key_scriptures": [
+        "Luke 22:31",
+        "1 Timothy 6:12",
+        "Jude 3",
+        "Jude 4",
+        "Jude 17",
+        "Jude 20-21",
+        "Romans 12:1",
+        "Proverbs 6:30-31"
+      ],
+      "summary": [
+        "Satan deliberately targets believers' faith through orchestrated attacks disguised as life circumstances, seeking to sift them like wheat and cause them to doubt God's goodness and faithfulness.",
+        "Believers must actively fight the good fight of faith through persistent prayer, worship, and spiritual discipline rather than passively observing their spiritual decline or blaming external circumstances.",
+        "Prayer is a strategy for soul maintenance and spiritual protection; maintaining a vibrant prayer life, building conviction through worship, and calling down fire on one's altar preserves devotion and prevents backsliding."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "FdPoEG7fybo",
+      "title": "LIVING BY THE SPIRIT | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-09-17T15:00:06Z",
+      "duration_sec": 4285,
+      "view_count": 51610,
+      "primary_theme": "power in christ",
+      "themes": [
+        "identity in christ",
+        "sanctification",
+        "faith",
+        "holy spirit",
+        "spiritual authority",
+        "overcoming sin"
+      ],
+      "key_scriptures": [
+        "Ephesians 3:20",
+        "2 Peter 1:3",
+        "Ephesians 1:19",
+        "Romans 8:13",
+        "Romans 6:11",
+        "Ephesians 1:15",
+        "Ephesians 2:1",
+        "Romans 6:9"
+      ],
+      "summary": [
+        "The sermon teaches that believers possess latent divine power (dunamis) through the Holy Spirit that must be actively exercised (energeia) to produce results in life, health, finances, and sanctification.",
+        "Using the metaphor of a dead chicken and gym training, the pastor explains that recognizing one's position in Christ and consistently applying spiritual discipline transforms potential power into actual transformation.",
+        "Christians must understand they start at the finish line through Christ's resurrection, actively mortify sin through the Spirit's power, and exercise themselves unto godliness just as they practiced ungodliness."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "60xF0Y__kQU",
+      "title": "EMOTIONAL INTELLIGENCE FOR LASTING LOVE PART 2 | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-02-17T15:30:06Z",
+      "duration_sec": 4648,
+      "view_count": 51259,
+      "primary_theme": "emotional intelligence",
+      "themes": [
+        "emotional intelligence",
+        "love and relationships",
+        "self-acceptance",
+        "integrity in faith",
+        "marriage and family",
+        "spiritual growth"
+      ],
+      "key_scriptures": [
+        "Matthew 5:13",
+        "Matthew 5:23-24",
+        "1 Corinthians 13:1-3",
+        "1 John 4:20",
+        "Jeremiah 2:2-3",
+        "John 4:10-14",
+        "James 1:21"
+      ],
+      "summary": [
+        "Emotional intelligence—the ability to perceive, interpret, regulate, and respond to emotions wisely—is essential for authentic Christian living and healthy relationships.",
+        "True faith must translate into transformed behavior toward others; worship and prayer without kindness, reconciliation, and integrity toward people is hypocrisy that God rejects.",
+        "Personal growth requires deliberate work: accepting yourself, maintaining a vibrant relationship with Jesus, understanding others' contexts with compassion, and taking accountability for your actions."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "fu8R6HfNSd4",
+      "title": "FAQ'S ABOUT BIBLICAL MARRIAGES | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-02-25T17:00:06Z",
+      "duration_sec": 5082,
+      "view_count": 51046,
+      "primary_theme": "biblical marriage",
+      "themes": [
+        "marriage",
+        "spouse selection",
+        "God's will",
+        "character",
+        "loyalty",
+        "wisdom",
+        "gender roles"
+      ],
+      "key_scriptures": [
+        "Genesis 2:18-22",
+        "Proverbs 31:10-31",
+        "Hosea 1:1-3",
+        "Hosea 3",
+        "Acts 13:2",
+        "1 Corinthians 9:5",
+        "Luke 1:26-38",
+        "Matthew 1:20-24",
+        "1 Corinthians 14:26"
+      ],
+      "summary": [
+        "God does not choose spouses for believers; rather, He providentially guides individuals to recognize their own need for a partner, as demonstrated when Adam recognized his need for a helper among the animals.",
+        "Pastors and prophets can affirm biblical disqualifications but cannot definitively choose a spouse for someone; believers must exercise free will and seek personal confirmation from God alongside wise counsel.",
+        "The ideal spouse demonstrates key character traits: wisdom in speech, loyalty and trustworthiness, industriousness, a homemaking orientation, and for men specifically, sacrificial leadership and effort for their family."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "xzK3rKyUdDY",
+      "title": "THE METAMORPHOSIS OF GOD IN PRAYER | REBOOT CAMP 2024 | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-01-21T17:15:06Z",
+      "duration_sec": 3004,
+      "view_count": 46359,
+      "primary_theme": "prayer and vision",
+      "themes": [
+        "prayer",
+        "vision",
+        "transformation",
+        "faith",
+        "prophetic word",
+        "divine encounter"
+      ],
+      "key_scriptures": [
+        "Hebrews 11:6",
+        "James 1:6",
+        "2 Corinthians 3:2-3",
+        "2 Corinthians 3:18",
+        "Jeremiah 33:3",
+        "John 1:47",
+        "2 Samuel 3:7",
+        "Acts 2:1-4"
+      ],
+      "summary": [
+        "Prayer must move beyond mere requests to include prophetic vision and divine encounter, where God reveals things unknown to us.",
+        "True transformation happens when believers behold God's glory with unveiled faces, becoming changed from glory to glory through spiritual sight.",
+        "The prophetic dimension of prayer is essential for receiving divine guidance, clarity, and instructions that shape our destiny and protect our future."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "rrSEkYws61Q",
+      "title": "THE LIFE THAT PURPOSE BUILT | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-05-18T16:00:06Z",
+      "duration_sec": 4705,
+      "view_count": 46189,
+      "primary_theme": "purpose",
+      "themes": [
+        "purpose",
+        "stewardship",
+        "grit",
+        "clarity",
+        "temptation resistance",
+        "divine assignment"
+      ],
+      "key_scriptures": [
+        "Hebrews 11:1",
+        "Hebrews 11:3",
+        "Galatians 2:20",
+        "2 Corinthians 5:18",
+        "1 Samuel 15:17",
+        "2 Samuel 7:8",
+        "Luke 12:16-20",
+        "Luke 10:41-42",
+        "Luke 18:1-8",
+        "Matthew 22:4",
+        "Luke 4:18"
+      ],
+      "summary": [
+        "Purpose is not theoretical knowledge but a transformative force that radically changes priorities, work ethic, and life direction, functioning as resistance against temptation and mediocrity.",
+        "A life of purpose gives believers grit, clarity about what matters, and protection from destructive habits by replacing voids with meaningful work and divine assignments.",
+        "Living with purpose means recognizing that all talents, opportunities, and resources are divine capital entrusted for God's agenda, requiring accountability, stewardship, and passionate execution of one's calling."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "POhx6qKZzh0",
+      "title": "SEX IS A TOOL FOR SPIRITUAL WARFARE | APOSTLE EMMANUEL IREN",
+      "published_at": "2025-05-21T15:00:06Z",
+      "duration_sec": 771,
+      "view_count": 44185,
+      "primary_theme": "spiritual warfare",
+      "themes": [
+        "spiritual warfare",
+        "sexual temptation",
+        "weakness and strength",
+        "marriage and intimacy",
+        "enemy strategy",
+        "personal boundaries"
+      ],
+      "key_scriptures": [
+        "1 Corinthians 7:2",
+        "1 Corinthians 7:3",
+        "1 Corinthians 7:5",
+        "Numbers 22",
+        "Numbers 31:16",
+        "Judges 16:4-5"
+      ],
+      "summary": [
+        "The enemy exploits personal weaknesses as weapons in spiritual warfare, particularly through sexual temptation and compromised relationships, using the same strategies seen throughout Scripture.",
+        "Strong believers can be defeated not through direct spiritual attack but through poor personal decisions and allowing themselves to be seduced away from God's covering and protection.",
+        "Married couples must actively maintain physical and emotional intimacy, and all believers must guard against people sent as weapons against their destiny, careers, marriages, and families."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "rgxyD-BKjw0",
+      "title": "EMOTIONAL INTELLIGENCE FOR LASTING LOVE PART 3 | APOSTLE EMMANUEL IREN",
+      "published_at": "2026-02-17T17:00:06Z",
+      "duration_sec": 6987,
+      "view_count": 42876,
+      "primary_theme": "marriage and emotional intelligence",
+      "themes": [
+        "marriage",
+        "emotional intelligence",
+        "gender roles",
+        "communication",
+        "submission",
+        "leadership",
+        "character",
+        "discipleship"
+      ],
+      "key_scriptures": [
+        "Ecclesiastes 9:16",
+        "Ecclesiastes 9:18",
+        "1 Samuel 17",
+        "Acts 13:2",
+        "Ephesians 4:26",
+        "Matthew 13",
+        "Romans 8:1"
+      ],
+      "summary": [
+        "The pastor emphasizes that emotional intelligence and proper communication are foundational to healthy marriages and Christian community, arguing that being a believer differs from being a Christian—which is demonstrated through behavior and character rather than conviction alone.",
+        "He teaches that men and women have complementary strengths and different communication styles; men respond poorly to constant criticism and need tone-appropriate communication, while women need emotional safety and consistency to build trust and submission.",
+        "The sermon stresses that successful marriage requires intentional work, understanding compatibility through shared core values and life goals, and deliberately practicing communication skills—not relying on supernatural intervention to bypass the hard work of building a godly home."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
     }
   ]
 }

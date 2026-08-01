@@ -2,58 +2,850 @@
   "pastor": "prince",
   "sermons": [
     {
-      "video_id": "SAMPLE_prince_finished_work",
-      "title": "The Finished Work of Jesus",
-      "published_at": "2024-01-14",
-      "duration_sec": 4020,
-      "view_count": 512000,
-      "primary_theme": "grace",
-      "themes": ["grace", "the cross", "rest", "righteousness"],
-      "key_scriptures": ["John 19:30", "Hebrews 10:12-14", "Romans 5:17"],
-      "summary": [
-        "Jesus' cry 'It is finished' means the debt for sin has been paid in full.",
-        "Believers rest in what Christ accomplished, not in their own performance.",
-        "The gift of righteousness is received, not earned."
+      "video_id": "1-qzwghQ15g",
+      "title": "8 Hours of Spontaneous Worship for Healing | Joseph Prince | Gospel Partner Resource",
+      "published_at": "2025-05-31T12:00:03Z",
+      "duration_sec": 29302,
+      "view_count": 631012,
+      "primary_theme": "god's mercy and presence",
+      "themes": [
+        "mercy",
+        "god's presence",
+        "worship",
+        "jesus christ",
+        "healing",
+        "god's unchanging nature",
+        "grace"
       ],
-      "tone": "teaching",
-      "difficulty": "intro",
-      "sample": true
-    },
-    {
-      "video_id": "SAMPLE_prince_love_walk",
-      "title": "Rooted and Grounded in Love",
-      "published_at": "2023-09-20",
-      "duration_sec": 3600,
-      "view_count": 198000,
-      "primary_theme": "love",
-      "themes": ["love", "the Father's heart", "healing"],
-      "key_scriptures": ["Ephesians 3:17-19", "1 John 4:16"],
-      "summary": [
-        "Receiving God's love produces inner healing and stability.",
-        "The knowledge of being loved by God transforms how we love others.",
-        "Meditate on the Father's love until it becomes your default posture."
+      "key_scriptures": [
+        "Exodus 33:14",
+        "Exodus 33:18-23",
+        "Matthew 11:28",
+        "1 Kings 19:11-12",
+        "Jonah 4:10-11",
+        "Matthew 6:25",
+        "John 14:1-3",
+        "Luke 23:34",
+        "John 19:30",
+        "Matthew 27:51"
       ],
-      "tone": "teaching",
-      "difficulty": "intro",
-      "sample": true
-    },
-    {
-      "video_id": "SAMPLE_prince_favor",
-      "title": "Living in the Favor of God",
-      "published_at": "2023-05-08",
-      "duration_sec": 3300,
-      "view_count": 340000,
-      "primary_theme": "favor",
-      "themes": ["favor", "grace", "prosperity"],
-      "key_scriptures": ["Psalm 5:12", "Luke 2:52", "Proverbs 3:4"],
       "summary": [
-        "Favor is unearned goodness that follows grace-conscious believers.",
-        "Expect favor with God and with people daily.",
-        "Confess favor over your day, work, and family."
+        "The sermon centers on God's infinite mercy, grace, and constant presence as revealed through Jesus Christ, emphasizing that His mercies are fresh every morning and flow freely through the cross.",
+        "Through biblical narratives of Moses, Elijah, Peter, and Jonah, the preacher illustrates that God's glory is manifested not in power or judgment, but in His gentle mercy and forgiveness.",
+        "The congregation is called to surrender to God's presence, receive His healing and deliverance, and recognize that His love is unchanging and superior to all earthly pleasures and circumstances."
       ],
       "tone": "encouragement",
-      "difficulty": "intro",
-      "sample": true
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "jlGyKHxacmY",
+      "title": "Protection Truths From Psalm 91 (Full Sermon) | Bible Study With Joseph Prince",
+      "published_at": "2025-08-07T12:30:54Z",
+      "duration_sec": 4823,
+      "view_count": 546472,
+      "primary_theme": "divine protection",
+      "themes": [
+        "faith",
+        "grace",
+        "identity in Christ",
+        "prayer",
+        "covenant",
+        "trust",
+        "rest"
+      ],
+      "key_scriptures": [
+        "Psalms 91:1",
+        "Psalms 91:2",
+        "Psalms 91:5-6",
+        "Genesis 14:18-20",
+        "Genesis 15:6",
+        "Genesis 17:1",
+        "Deuteronomy 28:1-13",
+        "John 17:15"
+      ],
+      "summary": [
+        "Psalm 91 is God's promise of 24-hour protection for believers who dwell in the secret place of the Most High through faith and covenant relationship with Him.",
+        "The secret place is accessed through justification by faith alone (Genesis 15), freedom from law-based works (Genesis 16), and trust in God's almighty power (Genesis 17).",
+        "Believers must actively invite God's protection through declaration and faith, recognizing that position in Christ comes before blessings, and that grace alone—not mixed with law—produces true spiritual fruit."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "B_XAlrmnjcI",
+      "title": "God's Healing For Long-Term Conditions (Full Sermon) | Joseph Prince",
+      "published_at": "2025-07-03T12:30:13Z",
+      "duration_sec": 4401,
+      "view_count": 296232,
+      "primary_theme": "healing through grace",
+      "themes": [
+        "grace",
+        "healing",
+        "faith",
+        "rest",
+        "redemption",
+        "identity in Christ"
+      ],
+      "key_scriptures": [
+        "John 5:1-15",
+        "John 5:17",
+        "Matthew 12:10-13",
+        "Luke 6:6-10",
+        "Deuteronomy 2:14",
+        "Song of Songs 5:15"
+      ],
+      "summary": [
+        "Jesus healed a man who had been infirm for 38 years by speaking with authority and power, demonstrating that grace operates differently from the law—power comes through hearing and beholding Christ rather than through human effort.",
+        "The healing of the blind, lame, and withered hand on the Sabbath reveals that God's work of redemption continues, and believers must enter into rest first before working, celebrating Sunday as the day of redemption rather than Saturday as the day of creation.",
+        "Healing is simplified when we stop complicating it, keep our eyes on Jesus rather than on means, and act as if we are already healed—making no provision for relapse and living out the reality of what Christ has already accomplished."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "S0qT1MSBpYQ",
+      "title": "Arise And Shine By Praying In The Spirit (Full Sermon) | Joseph Prince",
+      "published_at": "2025-07-17T12:30:30Z",
+      "duration_sec": 4783,
+      "view_count": 254630,
+      "primary_theme": "end times glory",
+      "themes": [
+        "faith",
+        "healing",
+        "spiritual warfare",
+        "prayer",
+        "worship",
+        "glory of God",
+        "speaking in tongues"
+      ],
+      "key_scriptures": [
+        "Isaiah 60:1-3",
+        "Isaiah 59:20-21",
+        "1 Samuel 17:45-47",
+        "Proverbs 22:6",
+        "Psalm 34",
+        "John 3:16",
+        "Romans 11:26-27",
+        "Jude 1:24"
+      ],
+      "summary": [
+        "In the end times, believers will arise and shine with God's glory while darkness covers the nations, attracting people to the light of Christ through the believer's transformed life and words.",
+        "Spiritual weapons like prayer, worship, and speaking in tongues are more powerful than material solutions, enabling believers to overcome every challenge and release God's power.",
+        "The covenant of God places His words in believers' mouths and their children's mouths, establishing their destiny and enabling them to walk in healing, prosperity, and the fullness of the Holy Spirit."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "QcxOOJAzpcE",
+      "title": "Hope That Anchors Your Soul (Full Sermon) | Joseph Prince",
+      "published_at": "2026-01-22T12:01:00Z",
+      "duration_sec": 3567,
+      "view_count": 245251,
+      "primary_theme": "hope and faith",
+      "themes": [
+        "hope",
+        "faith",
+        "perseverance",
+        "healing",
+        "blessing",
+        "positive expectation"
+      ],
+      "key_scriptures": [
+        "Hebrews 6:11",
+        "Hebrews 12:1",
+        "Hebrews 11:1",
+        "Romans 4:18",
+        "Hebrews 6:19",
+        "Genesis 22:16-17",
+        "1 Thessalonians 5:8",
+        "Romans 5:5",
+        "Matthew 14:15-21"
+      ],
+      "summary": [
+        "God swears by Himself to bless and multiply His people, establishing an unchangeable covenant that requires persistent faith and hope to appropriate.",
+        "Hope is an anchor for the soul—a confident expectation of good in the future—that protects believers from the flesh's natural tendency toward negativity and despair.",
+        "Like Joshua and Caleb who saw giants as bread rather than obstacles, believers must maintain biblical hope through trials, knowing troubles serve to strengthen them and produce promised blessings."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "3cjaoF5zCIQ",
+      "title": "The Entire Bible Explained In 30 Minutes | Joseph Prince (Special Sermon)",
+      "published_at": "2025-06-26T12:30:07Z",
+      "duration_sec": 1959,
+      "view_count": 228293,
+      "primary_theme": "redemption through christ",
+      "themes": [
+        "jesus as messiah",
+        "virgin birth",
+        "sacrifice and atonement",
+        "spiritual warfare",
+        "god's love",
+        "salvation"
+      ],
+      "key_scriptures": [
+        "Genesis 3:15",
+        "Isaiah 7:14",
+        "John 3:16",
+        "John 1:1-14",
+        "Genesis 22:1-14",
+        "Jeremiah 22:24-30",
+        "Matthew 1:1-25",
+        "Luke 1:26-38"
+      ],
+      "summary": [
+        "God's redemption plan unfolds through history as Satan attempts to prevent the promised Messiah from coming, from corrupting humanity before the flood to attacking the royal line of David.",
+        "Jesus fulfills all Old Testament prophecies as the virgin-born Son who possesses both legal claim through Joseph and actual lineage through Mary, making Him the true King of the Jews.",
+        "Through Christ's sacrifice on the cross, God's justice and love are perfectly reconciled, offering forgiveness and eternal life to all who believe in Him."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "v2lcFS3FCEc",
+      "title": "Vision Sunday Message: The Year of Much More (Full Sermon) | Joseph Prince",
+      "published_at": "2026-01-29T12:01:45Z",
+      "duration_sec": 4767,
+      "view_count": 215061,
+      "primary_theme": "hope and abundance",
+      "themes": [
+        "faith",
+        "god's word",
+        "grace",
+        "prosperity",
+        "healing",
+        "vision"
+      ],
+      "key_scriptures": [
+        "Proverbs 4:18",
+        "Hebrews 6:19",
+        "2 Chronicles 20:15-22",
+        "Matthew 13:11-12",
+        "Mark 4:24",
+        "Luke 8:15",
+        "Romans 5:17",
+        "Romans 5:20",
+        "Ephesians 3:20",
+        "Matthew 7:9-11",
+        "Psalm 23:5",
+        "Proverbs 22:29"
+      ],
+      "summary": [
+        "God promises 'much more' in 2026—more light, revelation, wisdom, healing, favor, and anointing—for those who prioritize His Word and maintain hope despite present trials.",
+        "The path of the righteous grows brighter while the world grows darker; believers must put on the helmet of salvation and anchor their souls in God's sure and steadfast hope.",
+        "God's heart is to give abundantly and exceed all we ask or think; receiving requires a teachable heart, prioritizing Scripture, and asking God for big things with faith."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "ETI_LLZVPyE",
+      "title": "Top 6 Most Misunderstood Verses In The Bible Explained | Joseph Prince",
+      "published_at": "2025-08-28T12:00:23Z",
+      "duration_sec": 3749,
+      "view_count": 213682,
+      "primary_theme": "grace and righteousness",
+      "themes": [
+        "grace",
+        "righteousness",
+        "salvation assurance",
+        "faith",
+        "scripture interpretation",
+        "identity in Christ"
+      ],
+      "key_scriptures": [
+        "1 John 1:9",
+        "Philippians 2:12-13",
+        "Hebrews 10:26",
+        "Hebrews 6:4-9",
+        "Matthew 7:21-23",
+        "Acts 5:1-11",
+        "John 3:16",
+        "Romans 3:28",
+        "Hebrews 10:10",
+        "1 John 4:2"
+      ],
+      "summary": [
+        "The sermon clarifies that 1 John 1:9 was written to unbelievers (Gnostics) rather than believers, establishing that righteousness is an eternal gift through Christ that cannot be lost through sin.",
+        "Believers are eternally sanctified through Jesus' one sacrifice and should approach God with confidence rather than condemnation, as their sins are forgiven and forgotten by God.",
+        "Difficult passages like Hebrews 6 and Matthew 7:21-23 must be interpreted in context and compared with clear passages about grace, revealing they address unbelievers or specific categories of people, not born-again Christians."
+      ],
+      "tone": "teaching",
+      "difficulty": "deep"
+    },
+    {
+      "video_id": "2ymxiODczIw",
+      "title": "Hebrews 2 Bible Study With Joseph Prince | No More Fear (Full Sermon)",
+      "published_at": "2025-07-10T12:30:03Z",
+      "duration_sec": 4852,
+      "view_count": 213275,
+      "primary_theme": "fear and faith",
+      "themes": [
+        "fear",
+        "faith",
+        "jesus's sacrifice",
+        "empathy",
+        "redemption",
+        "identity in christ",
+        "spiritual warfare"
+      ],
+      "key_scriptures": [
+        "Hebrews 2:14-15",
+        "Isaiah 26:3",
+        "1 John 4:18",
+        "Hebrews 4:14-16",
+        "Daniel 3:25",
+        "2 Corinthians 5:19",
+        "Psalm 91",
+        "Romans 8:26"
+      ],
+      "summary": [
+        "Jesus came down to our level, taking on flesh and blood to identify with our suffering and set us free from the fear of death that binds us in bondage throughout our lives.",
+        "The root of many fears—whether of flying, doctors, disease, or loss—is ultimately fear of death, which Jesus destroyed through his sacrifice so we can live free and unafraid.",
+        "By practicing empathy with those we love, especially our children, we reflect Christ's nature of coming down to where people are, which opens doors for spiritual influence and healing."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "JMx71W18Gl4",
+      "title": "New Year, Sharper Mind (Full Sermon) | Joseph Prince",
+      "published_at": "2026-01-01T12:30:26Z",
+      "duration_sec": 5470,
+      "view_count": 208096,
+      "primary_theme": "healing and freedom",
+      "themes": [
+        "mind healing",
+        "fear and anxiety",
+        "faith and trust",
+        "God's protection",
+        "identity in Christ",
+        "wisdom"
+      ],
+      "key_scriptures": [
+        "Isaiah 26:3",
+        "John 10:10",
+        "1 John 4:18",
+        "Matthew 13:19",
+        "Proverbs 3:13-18",
+        "Deuteronomy 28",
+        "Isaiah 53:5",
+        "1 Corinthians 2:16"
+      ],
+      "summary": [
+        "God desires to heal believers' minds from depression, fear, and forgetfulness by replacing negative thoughts with God's word and the mind of Christ.",
+        "The devil's primary strategy is to steal God's word from people's hearts before it can produce healing and breakthrough in their lives.",
+        "Believers are redeemed in spirit, soul, and body through Christ's work at the cross, and should embrace wisdom, God's protection throughout the year, and the promise of bodily redemption at Christ's return."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "LAbKT1iTsDE",
+      "title": "Live Life Loved By The Shepherd (Full Sermon) | Joseph Prince",
+      "published_at": "2025-10-16T12:30:22Z",
+      "duration_sec": 4951,
+      "view_count": 207916,
+      "primary_theme": "healing and shepherd care",
+      "themes": [
+        "healing",
+        "grace",
+        "abundant life",
+        "shepherd",
+        "faith",
+        "prayer",
+        "identity in Christ"
+      ],
+      "key_scriptures": [
+        "John 10:10",
+        "Isaiah 53:5",
+        "1 Peter 2:24-25",
+        "3 John 2",
+        "Psalm 23:1",
+        "Romans 1:17",
+        "Habakkuk 2:4",
+        "Jeremiah 29:10",
+        "Galatians 2:14"
+      ],
+      "summary": [
+        "God desires abundant life and health for believers, not sickness or suffering, as demonstrated through Jesus' healing ministry and his substitutionary work on the cross.",
+        "The revelation of Jesus as the Good Shepherd is central to receiving healing and living in rest, security, and divine care rather than striving independently.",
+        "Prayer is essential to manifest God's will for health and prosperity, requiring active participation and faith in God's promises, not passive acceptance of circumstances."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "m6ceX6q9ROY",
+      "title": "1 Kings 10 Bible Study with Joseph Prince | Make Every Decision Count (Full Sermon)",
+      "published_at": "2025-06-12T12:30:53Z",
+      "duration_sec": 4983,
+      "view_count": 192541,
+      "primary_theme": "wisdom in christ",
+      "themes": [
+        "wisdom",
+        "god's goodness",
+        "faith",
+        "church community",
+        "jesus as head",
+        "discernment"
+      ],
+      "key_scriptures": [
+        "Colossians 2:3",
+        "Psalm 31:19",
+        "Proverbs 3:13-17",
+        "1 Kings 10:23-24",
+        "Colossians 2:18-19",
+        "Philippians 2:9-10",
+        "Psalm 1:1",
+        "Genesis 22:2",
+        "John 6:1-14",
+        "Romans 12:15-16"
+      ],
+      "summary": [
+        "God has laid up all treasures of wisdom and knowledge in Christ, and believers must continually go to Jesus rather than relying on worldly counsel or false prophecies.",
+        "The church gathering provides corporate anointing and impartation that cannot be received alone, as demonstrated through the example of Thomas missing Jesus's resurrection appearance.",
+        "Wisdom is personified in Jesus and must be sought continuously through God's written Word, not through visions, dreams, or those who constantly claim 'God said' without biblical foundation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "KH7yNnooBQs",
+      "title": "The Prayer That Reverses Burnout (Full Sermon) | Joseph Prince",
+      "published_at": "2025-08-21T12:30:24Z",
+      "duration_sec": 4970,
+      "view_count": 184121,
+      "primary_theme": "end times hope",
+      "themes": [
+        "fear and anxiety",
+        "faith in jesus",
+        "holy spirit power",
+        "speaking in tongues",
+        "healing",
+        "identity in christ",
+        "rest and peace"
+      ],
+      "key_scriptures": [
+        "Luke 21:25-26",
+        "1 Corinthians 15:51-54",
+        "Isaiah 60:1-2",
+        "Isaiah 59:20-21",
+        "Galatians 3:13",
+        "1 Corinthians 14:2-5",
+        "Isaiah 28:11-12",
+        "Matthew 6:25",
+        "John 10:10",
+        "Acts 1:4-5"
+      ],
+      "summary": [
+        "Jesus prophesied end-times signs including earthquakes, fear, and nuclear age turmoil, but believers are redeemed from the curse of fear through Christ's work on the cross.",
+        "Speaking in tongues is a covenant gift of the Holy Spirit that brings revelation, healing, rest from stress, and freedom from the type-A personality prone to heart disease.",
+        "Despite earthly darkness and turmoil, God's glory rises upon believers who trust Jesus, speak His words, and pray in the Spirit, experiencing supernatural power and bodily redemption at His return."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "yGWyPIfAVDw",
+      "title": "Speak By Faith Not By Sight (Full Sermon) | Joseph Prince",
+      "published_at": "2026-06-18T12:00:03Z",
+      "duration_sec": 5132,
+      "view_count": 180485,
+      "primary_theme": "faith and the spirit realm",
+      "themes": [
+        "faith",
+        "spiritual warfare",
+        "mind",
+        "God's provision",
+        "identity in Christ",
+        "hearing God's voice"
+      ],
+      "key_scriptures": [
+        "1 Timothy 6:12",
+        "2 Corinthians 10:4-5",
+        "Colossians 1:22",
+        "Romans 5:19",
+        "Matthew 6:25-34",
+        "2 Corinthians 4:13",
+        "1 Samuel 17",
+        "Genesis 1:3"
+      ],
+      "summary": [
+        "The believer's primary battleground is the mind, where spiritual warfare occurs through thoughts and beliefs rather than physical means; victory comes through faith in God's spiritual realm rather than reliance on the five senses.",
+        "God's provision, healing, and blessings already exist in the spiritual realm and are accessed through faith, which acts as a window opening the believer to receive what God has already supplied.",
+        "Believers must reject condemning voices and embrace their identity as righteous and blameless in Christ, speaking faith-filled declarations that align with God's truth rather than natural circumstances."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "k2BYOqLmK7I",
+      "title": "Transformed by Beholding Jesus (Full Sermon) | Joseph Prince",
+      "published_at": "2025-10-09T12:31:01Z",
+      "duration_sec": 3977,
+      "view_count": 174191,
+      "primary_theme": "beholding Jesus",
+      "themes": [
+        "grace",
+        "transformation",
+        "faith",
+        "identity in Christ",
+        "Jesus in scripture",
+        "love of God"
+      ],
+      "key_scriptures": [
+        "2 Corinthians 3:18",
+        "Genesis 22:1-14",
+        "John 1:3",
+        "1 Corinthians 1:24",
+        "Luke 24:13-35",
+        "Hebrews 11:11",
+        "1 Peter 3:5-6",
+        "Revelation 11:11-12"
+      ],
+      "summary": [
+        "The core message is that believers are transformed not through self-effort or works, but by beholding Jesus in Scripture and allowing the Holy Spirit to conform them to His image.",
+        "Rather than focusing on what we must do or achieve, we should fix our eyes on Jesus—His beauty, power, and love—which naturally produces spiritual transformation and even physical miracles.",
+        "Every story and law in Scripture points to Jesus; when we see Him in the Word, our hearts burn within us, we are satisfied spiritually, and we become like Him from glory to glory."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "gZ7bVmb-430",
+      "title": "Renew Your Strength God’s Way (Full Sermon) | Joseph Prince",
+      "published_at": "2025-10-23T12:30:55Z",
+      "duration_sec": 4092,
+      "view_count": 167645,
+      "primary_theme": "waiting on God",
+      "themes": [
+        "faith",
+        "rest",
+        "strength",
+        "hearing God",
+        "supernatural living",
+        "grace"
+      ],
+      "key_scriptures": [
+        "Isaiah 40:31",
+        "John 5:19",
+        "2 Corinthians 3:18",
+        "Acts 15:9",
+        "Psalm 103:5",
+        "Hebrews 11:6",
+        "John 5:1-9"
+      ],
+      "summary": [
+        "Believers are supernatural people who must learn to wait on God in silence to receive renewed strength and supernatural power for both spiritual and physical life.",
+        "Jesus demonstrated that the Son does nothing except what He sees the Father doing, and believers should similarly watch for God's pictures and guidance in daily life rather than relying on logic alone.",
+        "True faith and obedience to God's direction, not religious works or human effort, pleases God and unlocks His provision for healing, wisdom, and abundant life."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "5jpb1gDUYWg",
+      "title": "2 Spiritual Keys for Bold Living (Full Sermon) | Joseph Prince",
+      "published_at": "2025-09-04T12:30:14Z",
+      "duration_sec": 3439,
+      "view_count": 167154,
+      "primary_theme": "god's power and wisdom",
+      "themes": [
+        "faith over worldly wisdom",
+        "god's strength in weakness",
+        "grace and humility",
+        "christ crucified",
+        "identity in christ"
+      ],
+      "key_scriptures": [
+        "1 Corinthians 1:18-25",
+        "1 Corinthians 1:26-29",
+        "Isaiah 53:11",
+        "Psalm 68:19",
+        "1 Peter 5:5"
+      ],
+      "summary": [
+        "God's wisdom and power are revealed through Christ crucified, which appears foolish and weak to the world but accomplishes salvation, healing, and deliverance for believers.",
+        "God deliberately chooses weak, foolish, and base things to confound the wisdom and strength of the world, demonstrating that human pride and self-reliance block God's grace.",
+        "Believers must embrace their weaknesses and limitations as opportunities for God to display His power, and receive His free gifts with humility rather than self-confidence or the pride of payment."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "w6WvtbDpFvk",
+      "title": "Live The Heavenly Life On Earth (Full Sermon) | Joseph Prince",
+      "published_at": "2025-12-04T12:31:32Z",
+      "duration_sec": 4302,
+      "view_count": 164056,
+      "primary_theme": "heavenly mindedness",
+      "themes": [
+        "identity in Christ",
+        "grace",
+        "faith",
+        "protection",
+        "love of God",
+        "spiritual authority"
+      ],
+      "key_scriptures": [
+        "Genesis 1:1",
+        "Psalms 91:1",
+        "Colossians 3:1-2",
+        "John 1:18",
+        "John 3:13",
+        "Ephesians 1:3-7",
+        "Deuteronomy 28:1",
+        "Matthew 24:6-7"
+      ],
+      "summary": [
+        "To be effective and strong in the Lord on earth, believers must learn to live consciously in heaven, understanding their position in Christ and God's love rather than focusing on earthly circumstances.",
+        "Jesus modeled this heavenly life by remaining in the bosom of the Father while on earth, and believers are now seated in heavenly places in Christ, blessed with every spiritual blessing.",
+        "Living in this heavenly reality—knowing you are beloved, highly favored, and secure in God's love—produces character transformation and manifests God's blessings and protection in practical earthly ways."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "cISBTPlAmF4",
+      "title": "This Is How We Fight Our Battles (Full Sermon) | Joseph Prince",
+      "published_at": "2025-09-18T12:31:01Z",
+      "duration_sec": 5687,
+      "view_count": 158473,
+      "primary_theme": "faith and rest",
+      "themes": [
+        "faith",
+        "rest",
+        "promise",
+        "victory",
+        "identity in Christ",
+        "God's provision"
+      ],
+      "key_scriptures": [
+        "Numbers 14:24",
+        "Joshua 14:6-12",
+        "Hebrews 3:7-19",
+        "Hebrews 4:1-3",
+        "2 Corinthians 4:17-18",
+        "3 John 2",
+        "Psalm 23:5",
+        "1 Timothy 6:12"
+      ],
+      "summary": [
+        "God calls believers to possess their promised blessings by maintaining faith in His character rather than focusing on visible obstacles and difficulties.",
+        "Like Caleb, who maintained a different spirit of faith for 45 years and entered the promised land at 85 with undiminished strength, Christians must feed on God's word and see trials as food for faith rather than defeat.",
+        "The battle belongs to the Lord; believers enter God's rest not through works but through believing His finished work and maintaining an invisible perspective that eternal blessings outweigh temporary afflictions."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "ugkYTxPCgt8",
+      "title": "How To Live In God’s Overflow (Full Sermon) | Joseph Prince",
+      "published_at": "2025-09-25T12:31:15Z",
+      "duration_sec": 4728,
+      "view_count": 150993,
+      "primary_theme": "grace and righteousness",
+      "themes": [
+        "grace",
+        "righteousness",
+        "faith",
+        "favor",
+        "identity in Christ",
+        "gifts from God"
+      ],
+      "key_scriptures": [
+        "Romans 4:3",
+        "Romans 5:17",
+        "2 Corinthians 5:21",
+        "Romans 10:3",
+        "Ecclesiastes 9:11",
+        "Hebrews 11:11",
+        "1 Peter 3:7"
+      ],
+      "summary": [
+        "God gives unmerited gifts and favor to believers, not based on their works or strength but through grace received by faith, as exemplified in the lives of Abraham, Joseph, Esther, and Ruth.",
+        "When a person is born again and receives Christ's righteousness, they are no longer identified as sinners but as righteous children of God with access to all the blessings contained in Christ's robe of righteousness.",
+        "Believers must walk by faith rather than sight, understanding that their new identity in Christ empowers them to reign over life's circumstances and the enemy's schemes through the abundance of grace and the gift of righteousness."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "7Rer7QhlzS0",
+      "title": "Learn 4 Bible Verses That Give Hope in Hard Times | Joseph Prince",
+      "published_at": "2025-06-05T12:30:12Z",
+      "duration_sec": 4598,
+      "view_count": 144772,
+      "primary_theme": "hope in christ",
+      "themes": [
+        "hope",
+        "grace",
+        "faith",
+        "salvation",
+        "identity in christ",
+        "healing",
+        "deliverance"
+      ],
+      "key_scriptures": [
+        "John 3:16",
+        "Romans 5:1-2",
+        "Hebrews 11:1",
+        "Hebrews 6:19",
+        "Isaiah 54:2",
+        "1 Corinthians 11:24-26",
+        "2 Corinthians 5:17",
+        "Psalm 27:10",
+        "Isaiah 40:31",
+        "1 Thessalonians 5:8"
+      ],
+      "summary": [
+        "Hope is a positive expectation of good rooted in Christ's finished work at the cross, where Jesus bore all sins and their consequences, making a blessed future certain for believers.",
+        "The world promotes hopelessness through negative news and despair, but Christians must reject this and embrace the God of hope who empowers their faith and stabilizes their souls like an anchor.",
+        "Believers are called to live as new creations in Christ, not bound by natural circumstances or family patterns, but transformed by God's grace to experience healing, deliverance, and the abundant life Jesus promised."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "q9cVu4Ayhzw",
+      "title": "Be Occupied With The Word Not The Enemy (Full Sermon) | Joseph Prince",
+      "published_at": "2026-05-07T12:01:40Z",
+      "duration_sec": 4802,
+      "view_count": 142761,
+      "primary_theme": "meditation on scripture",
+      "themes": [
+        "word of god",
+        "meditation",
+        "revelation knowledge",
+        "faith",
+        "grace vs law",
+        "spiritual growth",
+        "bible study"
+      ],
+      "key_scriptures": [
+        "Joshua 1:8",
+        "Psalms 1",
+        "2 Timothy 2:15",
+        "Galatians 4:4-5",
+        "Matthew 10:5-6",
+        "Luke 4:18",
+        "Mark 16:17-18",
+        "Philippians 2:12-13",
+        "Colossians 1:11"
+      ],
+      "summary": [
+        "The sermon emphasizes that believers must occupy themselves with God's word through daily meditation rather than focusing on obstacles and enemies, following Joshua's example of meditating day and night to achieve prosperity and good success.",
+        "A teachable and humble heart is essential when approaching Scripture, allowing God to speak fresh revelation rather than merely accumulating intellectual knowledge that puffs up without transforming lives.",
+        "Proper Bible interpretation requires understanding context, recognizing to whom passages are written, and rightly dividing between Old Covenant law and New Covenant grace to avoid misapplying Scripture and missing God's true message."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "e10hpQoaAJw",
+      "title": "How To Shine In Hard Times (Full Sermon) | A Bible Study On Isaiah 60—Part 2 | Joseph Prince",
+      "published_at": "2025-07-24T12:30:58Z",
+      "duration_sec": 4687,
+      "view_count": 142518,
+      "primary_theme": "end times glory",
+      "themes": [
+        "grace",
+        "healing",
+        "prosperity",
+        "faith",
+        "radiant health",
+        "end times"
+      ],
+      "key_scriptures": [
+        "Isaiah 60:1-3",
+        "Isaiah 60:11",
+        "Deuteronomy 28:6",
+        "Jeremiah 32:38-40",
+        "Romans 11:26-27",
+        "Psalm 103:5",
+        "Joshua 1:8",
+        "Acts 10:43"
+      ],
+      "summary": [
+        "In the final days before Christ's return, God's glory will shine radiantly upon His people while darkness covers the earth, drawing unsaved loved ones to salvation through the visible manifestation of God's presence.",
+        "Believers are called to maintain open gates of praise and speak God's word continually, positioning themselves to receive the transfer of wealth from nations and experience radiant health that reflects God's glory.",
+        "The foundation of all blessing—healing, prosperity, and intimacy with God—is the revelation that sins are forgiven through Jesus Christ, which releases the Holy Spirit's power to transform every area of life."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "pn-84pac7R0",
+      "title": "His Way Is To Abundantly Pardon (Full Sermon) | Joseph Prince",
+      "published_at": "2025-11-27T12:31:16Z",
+      "duration_sec": 5168,
+      "view_count": 139471,
+      "primary_theme": "god's forgiveness",
+      "themes": [
+        "forgiveness",
+        "grace",
+        "identity in christ",
+        "faith",
+        "healing",
+        "shepherd",
+        "restoration"
+      ],
+      "key_scriptures": [
+        "Isaiah 55:7",
+        "Isaiah 55:8-9",
+        "Psalm 23",
+        "John 10:10",
+        "Luke 15:1-7",
+        "Luke 14",
+        "Romans 6:1-11",
+        "1 Corinthians 15:5",
+        "Luke 22:31-34",
+        "Matthew 26:34"
+      ],
+      "summary": [
+        "God's forgiveness is abundant and exceeds human understanding—He forgives completely past, present, and future, unlike the limited, conditional forgiveness people extend to one another.",
+        "The church often fails to reflect God's character by being quick to judge and condemn rather than restore, revealing self-condemnation and a limited concept of grace.",
+        "Those who truly understand God's complete forgiveness and restoration—like Peter after his denial—become channels of that same grace to others, breaking cycles of shame and enabling genuine spiritual transformation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "ZkDWQs7ZZn8",
+      "title": "Reign with Much More (Full Sermon) | Joseph Prince",
+      "published_at": "2026-02-12T12:01:11Z",
+      "duration_sec": 4572,
+      "view_count": 136406,
+      "primary_theme": "grace and righteousness",
+      "themes": [
+        "grace",
+        "righteousness",
+        "faith",
+        "word of God",
+        "identity in Christ",
+        "abundance",
+        "peace"
+      ],
+      "key_scriptures": [
+        "Romans 5:17",
+        "Psalms 103:1-5",
+        "Luke 10:38-42",
+        "Matthew 9:28-29",
+        "Leviticus 5:15-18",
+        "Ephesians 1:7",
+        "Hebrews 10:1-2",
+        "2 Corinthians 1:21-22"
+      ],
+      "summary": [
+        "God's grace and the gift of righteousness through Christ's blood enable believers to reign in life and experience abundance far exceeding what death and sin brought through Adam.",
+        "Spending time in God's Word daily is essential for receiving revelation, light, and the settled peace that comes from knowing all sins—known and unknown—are perfectly forgiven.",
+        "Faith works through love and the knowledge of God's perfect forgiveness, which establishes a purged conscience and enables believers to walk in the fullness of their identity as the righteousness of God in Christ."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
     }
   ]
 }

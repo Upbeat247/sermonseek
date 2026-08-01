@@ -2,40 +2,604 @@
   "pastor": "dollar",
   "sermons": [
     {
-      "video_id": "SAMPLE_dollar_grace",
-      "title": "Understanding Grace",
-      "published_at": "2023-12-01",
-      "duration_sec": 3540,
-      "view_count": 230000,
-      "primary_theme": "grace",
-      "themes": ["grace", "law vs grace", "righteousness"],
-      "key_scriptures": ["Romans 6:14", "Ephesians 2:8-9", "Titus 2:11-12"],
+      "video_id": "hLAmVf2T83c",
+      "title": "How God's Redemption Will Shape Your Thoughts Pt. 2 - Sunday Service",
+      "published_at": "2026-05-31T16:33:42Z",
+      "duration_sec": 4640,
+      "view_count": 34438,
+      "primary_theme": "identity in Christ",
+      "themes": [
+        "redemption",
+        "grace",
+        "identity in Christ",
+        "mind renewal",
+        "generosity",
+        "spiritual awareness"
+      ],
+      "key_scriptures": [
+        "2 Corinthians 9:11",
+        "Ephesians 4:22-24",
+        "Romans 8:14",
+        "Romans 8:16",
+        "Philippians 2:13",
+        "John 14:26",
+        "Romans 10:1-2",
+        "Hebrews 10:1-2",
+        "Romans 8:15",
+        "1 John 3:1",
+        "Hebrews 13:9",
+        "John 15:4-5"
+      ],
       "summary": [
-        "Grace is God's unmerited empowerment to live above sin.",
-        "You cannot mix law and grace — they operate on different principles.",
-        "Grace teaches, empowers, and produces holiness in the believer."
+        "The pastor teaches that redemption means being freed from captivity and exchanged into something better, requiring believers to replace sin consciousness with son consciousness through daily spiritual rhythms.",
+        "True transformation flows from understanding your identity as a son or daughter of God, not from self-management or fighting the flesh, but from the Holy Spirit's revelation of who you already are in Christ.",
+        "Building daily rhythms of grace—including slow reading of Scripture, hearing the gospel preached well, quiet reflection, and thankfulness for finished works—awakens spiritual awareness of union with God and allows behavior to naturally follow identity."
       ],
       "tone": "teaching",
-      "difficulty": "intermediate",
-      "sample": true
+      "difficulty": "intermediate"
     },
     {
-      "video_id": "SAMPLE_dollar_faith",
-      "title": "How Faith Works",
-      "published_at": "2023-06-22",
-      "duration_sec": 3180,
-      "view_count": 190000,
-      "primary_theme": "faith",
-      "themes": ["faith", "confession", "manifestation"],
-      "key_scriptures": ["Hebrews 11:1", "Mark 11:22-24", "Romans 10:17"],
+      "video_id": "b8MO3iCFTTI",
+      "title": "How God's Redemption Will Shape Your Thoughts Pt. 3 - Sunday Service",
+      "published_at": "2026-06-07T16:44:45Z",
+      "duration_sec": 4941,
+      "view_count": 31418,
+      "primary_theme": "mind renewal",
+      "themes": [
+        "redemption",
+        "identity in Christ",
+        "grace",
+        "transformation",
+        "faith",
+        "righteousness"
+      ],
+      "key_scriptures": [
+        "Ephesians 4:22-24",
+        "Galatians 3:13",
+        "Acts 20:33-35",
+        "Ephesians 4:28",
+        "Romans 14:8",
+        "Proverbs 24:16",
+        "Psalms 34:19",
+        "Romans 5:20",
+        "Colossians 3:2",
+        "1 Thessalonians 5:16-18",
+        "2 Corinthians 3:18",
+        "Colossians 1:19-21"
+      ],
       "summary": [
-        "Faith is the substance of things hoped for — it gives evidence in the unseen realm.",
-        "Faith comes by hearing, then hearing, then hearing the Word.",
-        "Believe it in the heart, speak it with the mouth, act like it is done."
+        "Redemption reshapes your entire internal world by teaching your mind to agree with what Christ has already finished, moving you from sin consciousness to righteousness consciousness.",
+        "Spiritual growth is measured not by perfection but by how quickly you 'snap back' to your true identity in Christ when you fall or drift away.",
+        "Daily renewal requires a posture of yielded awareness and thanksgiving, where you deliberately set your mind on truth and behold Christ's image, allowing the Holy Spirit to transform you from glory to glory."
       ],
       "tone": "teaching",
-      "difficulty": "intermediate",
-      "sample": true
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "k5gzsZV4QdU",
+      "title": "Obedience to the Faith vs. Obedience to the Law - Sunday Service",
+      "published_at": "2026-06-14T16:34:45Z",
+      "duration_sec": 4779,
+      "view_count": 29061,
+      "primary_theme": "obedience to faith",
+      "themes": [
+        "grace vs law",
+        "faith",
+        "identity in Christ",
+        "righteousness",
+        "finished works of Jesus",
+        "generosity"
+      ],
+      "key_scriptures": [
+        "Acts 20:35",
+        "2 Timothy 2:15",
+        "Hebrews 4:10-11",
+        "Galatians 3:10",
+        "Romans 3:20",
+        "Romans 8:3",
+        "Galatians 3:5",
+        "Galatians 3:11",
+        "John 6:28-29",
+        "Romans 1:5",
+        "Romans 16:26",
+        "Acts 6:7",
+        "Deuteronomy 28:1-2"
+      ],
+      "summary": [
+        "The sermon contrasts obedience to the law (behavioral compliance to earn blessings) with obedience to faith (believing in Christ's finished works), showing how confusion between these two systems causes believers to live in striving, shame, and condemnation rather than rest and transformation.",
+        "Under the old covenant, blessings were conditional on performance and produced sin consciousness and fear; under the new covenant, believers are already blessed in Christ and obedience means believing and yielding to that truth through faith.",
+        "Right believing in what Jesus has already accomplished produces transformed living, righteousness consciousness, and rest, whereas law-based obedience produces pressure, performance mindset, fear of missing blessings, and alternating pride and condemnation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "f89fdA7KSqA",
+      "title": "The Nature of Faith-Based Obedience - Sunday Service",
+      "published_at": "2026-06-28T16:31:01Z",
+      "duration_sec": 4503,
+      "view_count": 28629,
+      "primary_theme": "grace-based obedience",
+      "themes": [
+        "grace",
+        "faith",
+        "identity in Christ",
+        "obedience",
+        "new covenant",
+        "rest"
+      ],
+      "key_scriptures": [
+        "2 Corinthians 9:6-8",
+        "Deuteronomy 28:1-2",
+        "Acts 6:7",
+        "Romans 1:5",
+        "Romans 16:26",
+        "Romans 5:19",
+        "Romans 8:4",
+        "Galatians 3:13-14",
+        "Ephesians 1:3",
+        "Hebrews 4:3",
+        "Philippians 2:13"
+      ],
+      "summary": [
+        "The sermon contrasts obedience under the old covenant law (performance-based, conditional, produces sin consciousness) with obedience to the faith under the new covenant (belief-based, unconditional, produces righteousness consciousness).",
+        "True obedience flows from identity in Christ and trust in His finished work, not from striving to earn blessings through behavioral compliance.",
+        "Believers are already blessed, righteous, and accepted in Christ; faith means resting in and believing what Jesus has accomplished rather than performing to qualify for God's favor."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "VxTLHDkKZPs",
+      "title": "Consequence Plus Mercy - Sunday Service",
+      "published_at": "2026-07-26T16:38:44Z",
+      "duration_sec": 4966,
+      "view_count": 23508,
+      "primary_theme": "grace and mercy",
+      "themes": [
+        "grace",
+        "mercy",
+        "redemption",
+        "identity in Christ",
+        "consequences",
+        "restoration"
+      ],
+      "key_scriptures": [
+        "Proverbs 21:26",
+        "Romans 3:23-24",
+        "Romans 8:1",
+        "Romans 8:28",
+        "Galatians 6:7",
+        "James 2:13",
+        "Galatians 3:13",
+        "Joel 2:25",
+        "Hebrews 12:10"
+      ],
+      "summary": [
+        "God's grace removes condemnation and mercy interrupts judgment, though earthly consequences for sin may still exist in a fallen world.",
+        "Jesus bore the curse of the law and redeemed believers from its penalty, while God's mercy continually works to restore, heal, and prevent greater consequences through wisdom and transformation.",
+        "The real sin is not walking in your true identity in Christ; believers are called to live as redeemed and righteous rather than remaining in shame and condemnation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "NOX3UeZf6I4",
+      "title": "The Redeemed Father - Sunday Service",
+      "published_at": "2026-06-21T15:59:26Z",
+      "duration_sec": 2398,
+      "view_count": 20349,
+      "primary_theme": "fatherhood and grace",
+      "themes": [
+        "grace",
+        "fatherhood",
+        "forgiveness",
+        "redemption",
+        "family reconciliation",
+        "identity in christ"
+      ],
+      "key_scriptures": [
+        "Psalms 96:6",
+        "Malachi 4:6",
+        "Luke 15:20",
+        "Psalms 103:12",
+        "Romans 8:1",
+        "Luke 6:37",
+        "Ephesians 4:31-32",
+        "Proverbs 17:6",
+        "1 Corinthians 13:5",
+        "2 Corinthians 9:11"
+      ],
+      "summary": [
+        "Fathers who have failed carry deep psychological, spiritual, and emotional wounds—shame, guilt, inferiority, fear of rejection, and self-condemnation—yet God extends grace beyond past failures just as He removes our transgressions as far as east is from west.",
+        "Families often imprison fathers in their past mistakes, refusing to honor their growth and change, but extending the same grace desired for oneself is essential for healing and breaking generational cycles of bitterness and unforgiveness.",
+        "Both fathers and children must choose honor over offense, recognizing that God never defines us by our worst moment but by our identity in Christ, and that celebrating progress over perfection releases emotional healing and strengthens family relationships."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "371T5OrQsE4",
+      "title": "Maintaining Your Victory in the Midst of Discomfort - Wednesday Morning Service",
+      "published_at": "2026-07-08T16:33:20Z",
+      "duration_sec": 3984,
+      "view_count": 19548,
+      "primary_theme": "grace and faith",
+      "themes": [
+        "grace",
+        "faith",
+        "identity in Christ",
+        "spiritual growth",
+        "overcoming adversity",
+        "relationship with God"
+      ],
+      "key_scriptures": [
+        "Romans 5:2",
+        "Romans 4:16",
+        "1 Peter 5:10",
+        "Romans 8:29",
+        "Philippians 3:10",
+        "Titus 2:11-12"
+      ],
+      "summary": [
+        "Grace is the finished work of Jesus Christ accessed through faith, not earned through personal effort or religious works.",
+        "Discomfort and suffering are catalysts for spiritual maturity and conformity to Christ's image, not signs of spiritual failure.",
+        "True Christianity is a relationship with Jesus, not adherence to rules; grace teaches believers to regard God and reject both sin and self-righteousness."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "BBPoLXDnOEs",
+      "title": "Confessions",
+      "published_at": "2026-07-21T14:43:30Z",
+      "duration_sec": 1841,
+      "view_count": 18070,
+      "primary_theme": "grace consciousness",
+      "themes": [
+        "grace",
+        "identity in Christ",
+        "righteousness",
+        "sin consciousness",
+        "freedom from condemnation",
+        "faith"
+      ],
+      "key_scriptures": [
+        "Psalms 91:1-16",
+        "Hebrews 9:14",
+        "Hebrews 10:1-18",
+        "Romans 8:1-2",
+        "2 Corinthians 5:21",
+        "Hebrews 4:16",
+        "John 8:10-11"
+      ],
+      "summary": [
+        "The sermon contrasts sin consciousness with innocence consciousness, teaching that believers should recognize their identity as righteous through Christ rather than remaining trapped in guilt and shame.",
+        "Sin consciousness keeps believers in bondage to the law, hinders their relationship with God, and prevents boldness in approaching Him, whereas grace consciousness enables freedom and confident access to God's throne.",
+        "Jesus has declared believers innocent of all charges and given them His righteousness as a gift; living from this truth transforms behavior and enables authentic intimacy with God."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "T43DxK7lEOQ",
+      "title": "Resting in the Arms of Jesus - Wednesday Service",
+      "published_at": "2026-07-23T01:04:34Z",
+      "duration_sec": 4433,
+      "view_count": 17228,
+      "primary_theme": "rest in god",
+      "themes": [
+        "faith",
+        "trust",
+        "peace",
+        "grace",
+        "anxiety",
+        "dependence on god"
+      ],
+      "key_scriptures": [
+        "Hebrews 4:1-11",
+        "Psalms 46:10",
+        "Matthew 11:28-30",
+        "1 Peter 5:5-7",
+        "Psalms 55:22",
+        "Joshua 24:13",
+        "Deuteronomy 6:10-13",
+        "Philippians 4:6-7",
+        "Psalms 127:1-2",
+        "Mark 4:35-38",
+        "John 5:17",
+        "John 14:10",
+        "Galatians 2:20"
+      ],
+      "summary": [
+        "God offers a supernatural rest available to all believers through faith and trust, not through works or self-effort, which is the culmination of the series on falling from grace.",
+        "True rest means total dependence on God for everything while continuing to work and move forward, characterized by peace, freedom from anxiety, and the assurance that God is working on your behalf.",
+        "Believers must enter this rest by casting their cares on God, maintaining peace regardless of circumstances, and trusting that God will accomplish what cannot be done through human effort alone."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "WRm-Zi7xxYE",
+      "title": "Confessions",
+      "published_at": "2026-07-20T14:37:22Z",
+      "duration_sec": 1821,
+      "view_count": 16227,
+      "primary_theme": "sin consciousness",
+      "themes": [
+        "sin consciousness",
+        "grace",
+        "righteousness",
+        "identity in Christ",
+        "freedom in Christ",
+        "holy spirit guidance"
+      ],
+      "key_scriptures": [
+        "Psalms 91:1-16",
+        "Hebrews 10:1-2",
+        "Hebrews 10:17-18",
+        "Romans 8:1",
+        "2 Corinthians 5:21"
+      ],
+      "summary": [
+        "Sin consciousness is an ongoing awareness of guilt and focus on sin that traps believers in shame and condemnation despite Christ's finished work on the cross.",
+        "Under the new covenant, Jesus' once-for-all sacrifice removes sin consciousness, and believers are declared righteous and innocent through His exchange of our sins for His righteousness.",
+        "Rather than remaining trapped in sin consciousness through self-examination and performance-based striving, believers should develop a righteousness consciousness that flows from understanding their identity in Christ and God's grace."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "o5tAw5lAPLE",
+      "title": "Sin Without Secrets - Wednesday Service",
+      "published_at": "2026-07-09T01:28:10Z",
+      "duration_sec": 5924,
+      "view_count": 16196,
+      "primary_theme": "grace over performance",
+      "themes": [
+        "salvation by faith",
+        "identity in Christ",
+        "shame vs conviction",
+        "repentance",
+        "church culture",
+        "authenticity",
+        "grace"
+      ],
+      "key_scriptures": [
+        "John 5:24",
+        "John 3:16",
+        "Ephesians 2:8-9",
+        "Philippians 2:13",
+        "Hebrews 10:17",
+        "Colossians 2:13-14",
+        "Ezekiel 18:20",
+        "Romans 14:12",
+        "Hebrews 9:28",
+        "Acts 19:13-15"
+      ],
+      "summary": [
+        "Salvation is by faith in Jesus Christ alone, not by sinless performance or ongoing repentance; believers are eternally secure through His finished work.",
+        "The church has often used fear, shame, and transactional religion to motivate behavior, driving away millennials and young adults who crave authentic relationship with God.",
+        "True transformation comes from understanding your identity in Christ and speaking truth about who you are, rather than from external rules or condemnation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "X42AB1VSL8I",
+      "title": "Confessions",
+      "published_at": "2026-07-07T14:45:00Z",
+      "duration_sec": 2091,
+      "view_count": 16144,
+      "primary_theme": "renewing your mind",
+      "themes": [
+        "grace",
+        "identity in christ",
+        "renewing your mind",
+        "holy spirit",
+        "conscience",
+        "faith"
+      ],
+      "key_scriptures": [
+        "Psalm 91:1-16",
+        "Romans 12:2",
+        "Romans 8:16"
+      ],
+      "summary": [
+        "The pastor teaches that believers must renew their minds with the gospel of grace to align their soul with their spirit rather than their flesh, enabling the Holy Spirit to guide them through their conscience.",
+        "The human being consists of spirit, soul, and body with distinct voices: the spirit speaks through conscience and revelation, the soul through reasoning and intellect, and the body through feelings and sensations.",
+        "By consistently renewing the mind in the new covenant of grace, believers train their subconscious to reflect grace instead of condemnation, allowing the Holy Spirit to lead them into their purpose and calling."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "PstKp92QmUs",
+      "title": "Confessions",
+      "published_at": "2026-07-14T14:51:19Z",
+      "duration_sec": 2107,
+      "view_count": 15606,
+      "primary_theme": "grace-based relationships",
+      "themes": [
+        "grace",
+        "relationships",
+        "forgiveness",
+        "dependence on God",
+        "rejection",
+        "boundaries",
+        "identity in Christ"
+      ],
+      "key_scriptures": [
+        "Psalm 91",
+        "Philippians 2",
+        "1 Corinthians 16:7",
+        "Ephesians 4:32",
+        "1 Corinthians 13:7"
+      ],
+      "summary": [
+        "Grace-based relationships are built on unconditional love, forgiveness, and acceptance rather than performance and rules, requiring believers to see others through Christ's finished work and forgive freely without conditions.",
+        "Living out grace-based relationships demands total dependence on God and the Holy Spirit, as attempting to achieve this through personal ability alone is impossible without daily contact with God's word and presence.",
+        "Believers must overcome rejection wounds and self-preservation fears by choosing to believe the best in others, trusting Jesus rather than building defensive guards, while maintaining healthy boundaries that protect against toxic influences."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "eealeSUYjwo",
+      "title": "Confessions",
+      "published_at": "2026-06-30T15:08:05Z",
+      "duration_sec": 2090,
+      "view_count": 15482,
+      "primary_theme": "renewing your mind",
+      "themes": [
+        "identity in Christ",
+        "grace",
+        "Holy Spirit",
+        "soul and spirit",
+        "mind renewal",
+        "faith"
+      ],
+      "key_scriptures": [
+        "Psalm 91:1-16",
+        "Romans 12:2",
+        "Romans 8:16"
+      ],
+      "summary": [
+        "The pastor teaches that believers must renew their minds with the gospel of grace to align their souls with their spirits rather than their flesh, enabling the Holy Spirit to guide them through their conscience.",
+        "Understanding the distinction between the voice of the spirit (conscience), soul (intellect and emotions), and body (feelings and sensations) is essential for spiritual maturity and hearing God's direction clearly.",
+        "As you renew your mind with grace-based truth, your subconscious gradually reflects grace instead of condemnation, your soul aligns with the Holy Spirit, and your body eventually lines up with God's promises for healing and righteousness."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "fZ5zvpbJ0lM",
+      "title": "Confessions",
+      "published_at": "2026-07-23T14:47:50Z",
+      "duration_sec": 1711,
+      "view_count": 15291,
+      "primary_theme": "trust in god",
+      "themes": [
+        "trust in god",
+        "holy spirit dependence",
+        "faith over works",
+        "letting go of control",
+        "grace",
+        "spiritual security"
+      ],
+      "key_scriptures": [
+        "Psalm 118:24",
+        "Proverbs 3:5-6",
+        "Psalm 20:7",
+        "1 Peter 5:7"
+      ],
+      "summary": [
+        "The pastor emphasizes that success in the last days depends entirely on one's relationship with the Holy Spirit rather than personal effort, education, or worldly strategies.",
+        "True trust in God means surrendering control, releasing anxiety about outcomes, and relying confidently on Him to work through our lives without taking credit for results.",
+        "Believers must abandon dependence on money, government, psychology, and toxic relationships, instead placing their complete security and identity in Jesus Christ alone."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "zwqEy3cOS0k",
+      "title": "Confessions",
+      "published_at": "2026-07-13T14:37:49Z",
+      "duration_sec": 1833,
+      "view_count": 15271,
+      "primary_theme": "grace-based relationships",
+      "themes": [
+        "grace",
+        "unconditional love",
+        "forgiveness",
+        "relationships",
+        "holy spirit",
+        "redemption"
+      ],
+      "key_scriptures": [
+        "Psalm 91:1-16",
+        "John 3:16",
+        "Galatians 3:28",
+        "1 John 4:19",
+        "Psalm 11:3"
+      ],
+      "summary": [
+        "Grace-based relationships are built on God's unconditional love, forgiveness, and acceptance rather than performance, rules, or expectations.",
+        "Believers cannot love unconditionally or forgive freely without the Holy Spirit's power working through them, requiring constant meditation on Christ's finished work and redemption.",
+        "The foundation of grace must underlie all relationships, finances, and life pursuits, transforming how people see each other as righteous and redeemed rather than defined by past mistakes."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "Id1U8_hUtz0",
+      "title": "Confessions",
+      "published_at": "2026-07-28T14:44:26Z",
+      "duration_sec": 1975,
+      "view_count": 15113,
+      "primary_theme": "spiritual warfare",
+      "themes": [
+        "spiritual warfare",
+        "identity in Christ",
+        "faith",
+        "victory",
+        "praise",
+        "authority"
+      ],
+      "key_scriptures": [
+        "Psalm 118:24",
+        "Ephesians 6:12",
+        "Psalm 91",
+        "John 10:10",
+        "Ephesians 6:11-17",
+        "Luke 18:1",
+        "Revelation 12:11",
+        "Proverbs 3:5-6"
+      ],
+      "summary": [
+        "The sermon teaches that believers face spiritual battles through negative influences, thoughts, and emotions that lead to ungodly decisions and destinations, but can reverse this cycle by changing their exposure and thinking.",
+        "God has already provided victory through the Holy Spirit, armor of God, prayer, God's word, praise, dependence on God, and the blood of Christ to overcome spiritual attacks.",
+        "Believers are called to recognize their identity as righteous in Christ, declare God's truth over their lives, and live in victory rather than defeat by actively resisting the enemy's suggestions and lies."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "fXFXpyu_wyc",
+      "title": "The Heart of God Towards Humanity - Wednesday Service",
+      "published_at": "2026-06-25T01:08:06Z",
+      "duration_sec": 4582,
+      "view_count": 14783,
+      "primary_theme": "god's pursuit of humanity",
+      "themes": [
+        "grace and faith",
+        "salvation",
+        "identity in christ",
+        "god's love",
+        "repentance",
+        "communion with god"
+      ],
+      "key_scriptures": [
+        "Luke 15:3-7",
+        "Luke 15:8-10",
+        "Luke 15:11-32",
+        "John 3:16",
+        "John 3:17-18",
+        "John 3:36",
+        "1 Timothy 2:3-4",
+        "1 Timothy 4:10",
+        "Luke 19:10",
+        "Colossians 1:27",
+        "1 John 4:19",
+        "1 John 4:9"
+      ],
+      "summary": [
+        "God actively seeks lost humanity through His redemptive mission, illustrated by the parables of the lost sheep, lost coin, and prodigal son, demonstrating that salvation is available to all but requires personal faith and belief to receive.",
+        "While Jesus made salvation available to the entire world, universalism—the belief that everyone will be saved regardless of choice—contradicts Scripture; salvation requires both God's grace and individual faith, belief, and acceptance.",
+        "Believers should develop intimate communion with God through daily awareness of their union with Christ, speaking their true identity, and defeating temptation by recognizing deception, which transforms their relationship from mere knowledge about God to intimate personal relationship with Him."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
     }
   ]
 }

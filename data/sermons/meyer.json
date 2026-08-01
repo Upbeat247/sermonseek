@@ -2,58 +2,795 @@
   "pastor": "meyer",
   "sermons": [
     {
-      "video_id": "SAMPLE_meyer_mind",
-      "title": "The Battlefield of the Mind",
-      "published_at": "2023-10-30",
-      "duration_sec": 2760,
-      "view_count": 780000,
-      "primary_theme": "renewing the mind",
-      "themes": ["renewing the mind", "thought life", "victory"],
-      "key_scriptures": ["Romans 12:2", "2 Corinthians 10:5", "Philippians 4:8"],
+      "video_id": "I_FlgCWfOCk",
+      "title": "How To Destress-FULL SERMON | Joyce Meyer",
+      "published_at": "2026-06-20T09:59:58Z",
+      "duration_sec": 6144,
+      "view_count": 132020,
+      "primary_theme": "peace in stress",
+      "themes": [
+        "peace",
+        "stress management",
+        "trust in God",
+        "self-discipline",
+        "identity in Christ",
+        "prayer"
+      ],
+      "key_scriptures": [
+        "John 14:27",
+        "Matthew 11:28-29",
+        "1 Peter 2:23",
+        "Psalm 32:1-5",
+        "2 Timothy 1:7",
+        "Proverbs 14:30",
+        "Psalm 27:4-6",
+        "Acts 24:16"
+      ],
       "summary": [
-        "The battle for your life is won or lost in your thought life.",
-        "Wrong thinking produces wrong emotions and wrong behaviour.",
-        "Renew the mind daily by meditating on God's Word."
+        "Jesus offers peace not by removing all circumstances but by teaching believers how to maintain a calm heart through trust, prayer, and learning His ways.",
+        "True stress relief comes from internal transformation—managing guilt, forgiving others, controlling worry, and disciplining oneself—rather than changing external circumstances.",
+        "Practical stress management includes trusting God with concerns, maintaining healthy boundaries, exercising, eliminating unfruitful activities, and prioritizing time with God above all else."
       ],
       "tone": "teaching",
-      "difficulty": "intro",
-      "sample": true
+      "difficulty": "intermediate"
     },
     {
-      "video_id": "SAMPLE_meyer_love_yourself",
-      "title": "Loving Yourself the Way God Does",
-      "published_at": "2023-07-04",
-      "duration_sec": 2400,
-      "view_count": 320000,
-      "primary_theme": "love",
-      "themes": ["love", "self-worth", "identity"],
-      "key_scriptures": ["Matthew 22:39", "Psalm 139:14", "1 John 4:19"],
-      "summary": [
-        "You can't love others well until you receive God's love for yourself.",
-        "Rejecting yourself is rejecting God's workmanship.",
-        "Practise thanking God for who He made you to be."
+      "video_id": "e7bIFSVOQoo",
+      "title": "Looking Forward - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-23T08:59:47Z",
+      "duration_sec": 1774,
+      "view_count": 39392,
+      "primary_theme": "faith and trust",
+      "themes": [
+        "faith",
+        "trust in god",
+        "spiritual growth",
+        "trials and tribulation",
+        "purpose",
+        "joy"
       ],
-      "tone": "encouragement",
-      "difficulty": "intro",
-      "sample": true
+      "key_scriptures": [
+        "Romans 10:9",
+        "James 2:26",
+        "Philippians 3:10",
+        "Philippians 3:13-14",
+        "Psalm 27:13-14"
+      ],
+      "summary": [
+        "Faith is a real force that must be actively released through prayer, words, and actions, not merely believed passively.",
+        "Spiritual growth happens primarily during trials and difficulties, where we are forced to trust God and discover our true selves.",
+        "Living with purpose, gratitude, and joy while focusing on serving others rather than self-satisfaction is essential to a meaningful Christian life."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
     },
     {
-      "video_id": "SAMPLE_meyer_worry",
-      "title": "Freedom from Worry and Anxiety",
-      "published_at": "2022-12-11",
-      "duration_sec": 2580,
-      "view_count": 540000,
-      "primary_theme": "peace",
-      "themes": ["peace", "anxiety", "trust"],
-      "key_scriptures": ["Philippians 4:6-7", "1 Peter 5:7", "Matthew 6:25-34"],
+      "video_id": "jZ_k1MyfYOE",
+      "title": "Ultimate Freedom-FULL SERMON | Joyce Meyer",
+      "published_at": "2026-07-04T09:59:51Z",
+      "duration_sec": 17249,
+      "view_count": 34451,
+      "primary_theme": "freedom from fear",
+      "themes": [
+        "faith",
+        "identity in Christ",
+        "God's love",
+        "courage",
+        "legalism",
+        "God's presence"
+      ],
+      "key_scriptures": [
+        "Isaiah 41:10",
+        "1 John 4:18",
+        "Hebrews 11:1",
+        "Romans 1:17",
+        "Luke 18:1",
+        "2 Peter 3:14",
+        "Luke 21:9-13",
+        "Mark 4:35-39",
+        "Exodus 14:10-14",
+        "Habakkuk 3:17-18",
+        "1 Corinthians 16:9",
+        "John 10:10",
+        "Romans 6",
+        "1 Thessalonians 4:16-18"
+      ],
       "summary": [
-        "Worry is meditating on the problem instead of the Problem-solver.",
-        "Cast your cares — don't carry what God offered to carry.",
-        "Praying with thanksgiving guards the heart with supernatural peace."
+        "Fear is a weapon the enemy uses to keep believers from their God-ordained destiny, but faith is the antidote that allows us to confront fear and move forward courageously.",
+        "God's constant presence and unconditional love are the foundation for overcoming fear and living boldly; believers must recognize that God loves them completely regardless of their performance or failures.",
+        "Living by faith daily, not just in emergencies, combined with understanding our identity and worth in Christ, enables us to face life's storms, pursue God's calling, and experience the joy and freedom Jesus died to give us."
       ],
       "tone": "encouragement",
-      "difficulty": "intro",
-      "sample": true
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "j7XEpJQGeHY",
+      "title": "Faith vs. Fear - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-17T08:59:47Z",
+      "duration_sec": 1773,
+      "view_count": 32809,
+      "primary_theme": "faith over feelings",
+      "themes": [
+        "faith",
+        "fear",
+        "emotions",
+        "God's character",
+        "belief",
+        "God's word",
+        "transformation"
+      ],
+      "key_scriptures": [
+        "Hebrews 4:12",
+        "Joshua 1:8",
+        "Hebrews 11:6"
+      ],
+      "summary": [
+        "The sermon contrasts faith and fear as opposing forces that determine whether God or the devil has access to our lives, emphasizing that feelings should not be the basis for decisions.",
+        "Joyce Meyer teaches that believers must choose to live by God's word rather than emotions, which are the believer's primary enemy after the devil himself.",
+        "Through personal testimony and biblical teaching, she demonstrates how meditating on God's word activates His power and transforms lives, even from past trauma and injustice."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "5PJstF16B_E",
+      "title": "Faith - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-09T09:00:00Z",
+      "duration_sec": 1773,
+      "view_count": 30791,
+      "primary_theme": "faith in God",
+      "themes": [
+        "faith",
+        "joy",
+        "trust in God",
+        "contentment",
+        "spiritual gifts",
+        "forgiveness"
+      ],
+      "key_scriptures": [
+        "Romans 12:3",
+        "Hebrews 11:1",
+        "Colossians 1:4",
+        "Galatians 5:6",
+        "Jeremiah 17:5-7",
+        "Philippians 3:3",
+        "John 10:10",
+        "Hebrews 1:3",
+        "Proverbs 19:11",
+        "Romans 10:9"
+      ],
+      "summary": [
+        "Faith is not based on what you see or feel but on trusting God's character, power, wisdom, and goodness in all circumstances.",
+        "Joy comes from recognizing God's miracles in everyday life and maintaining contentment rather than constantly seeking more, which keeps your faith strong.",
+        "Everyone has been given faith and spiritual gifts by God; the key is placing that faith in God alone rather than in people, institutions, or yourself, and releasing it through prayer, confession, and love."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "ODayWn7D7Lc",
+      "title": "Dealing with Stress - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-02T08:59:52Z",
+      "duration_sec": 1773,
+      "view_count": 25830,
+      "primary_theme": "spiritual maturity",
+      "themes": [
+        "spiritual maturity",
+        "personal transformation",
+        "stress management",
+        "simplicity",
+        "kindness",
+        "self-centeredness"
+      ],
+      "key_scriptures": [
+        "John 16:33",
+        "2 Corinthians 5:20"
+      ],
+      "summary": [
+        "True freedom comes from releasing the need to impress others and allowing God to transform us rather than constantly seeking changed circumstances.",
+        "Spiritual maturity is the transition from asking God for what we want to asking what we can do for Him and others, moving from self-centered to others-minded living.",
+        "Simplifying life by releasing clutter, materialism, and the addiction to comfort reduces stress and creates the peace that comes from trusting God through inevitable difficulties."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "HAEfDCXczKk",
+      "title": "How Faith Works - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-13T08:59:51Z",
+      "duration_sec": 1766,
+      "view_count": 25462,
+      "primary_theme": "faith and expectation",
+      "themes": [
+        "faith",
+        "expectation",
+        "grace",
+        "confession",
+        "God's goodness",
+        "living by faith"
+      ],
+      "key_scriptures": [
+        "Isaiah 38:14-15",
+        "Psalm 27:13-14",
+        "Isaiah 40:31",
+        "Hebrews 11:6",
+        "Romans 10:17",
+        "Hebrews 4:14",
+        "Proverbs 18:21",
+        "Matthew 12:34-35",
+        "2 Corinthians 5:7",
+        "Philippians 3:12",
+        "John 16:24",
+        "Romans 14:23",
+        "Galatians 2:20"
+      ],
+      "summary": [
+        "Faith is filled with expectation and requires actively believing God will act, not passively waiting with doubt or fear.",
+        "God is waiting to be good to those who expect and look for His goodness, and this expectation must be expressed through positive confession and words aligned with Scripture.",
+        "Living by faith means trusting God's word above circumstances, allowing His grace to work through us, and maintaining a joyful expectation that opens the door for God to accomplish His purposes."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "FCtc16DKlAc",
+      "title": "Dying to Live | Enjoying Everyday Live | Joyce Meyer",
+      "published_at": "2026-07-20T08:59:55Z",
+      "duration_sec": 1766,
+      "view_count": 25389,
+      "primary_theme": "dying to self",
+      "themes": [
+        "dying to self",
+        "character and integrity",
+        "discipline",
+        "personal transformation",
+        "marriage and relationships",
+        "overcoming hurt"
+      ],
+      "key_scriptures": [
+        "Romans 13:14",
+        "1 Corinthians 10:23",
+        "1 Corinthians 9:27"
+      ],
+      "summary": [
+        "Joyce Meyer teaches that spiritual growth requires disciplining the flesh and dying to selfish desires through consistent choices and cooperation with God's work in our lives.",
+        "True transformation happens not through external rules but through studying God's word in areas of personal struggle and progressively weakening strongholds by choosing righteousness repeatedly.",
+        "Character and integrity matter deeply to God; believers must live out what they preach, maintain honesty in all things, and allow Christ to live through them so others can witness His peace and power."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "5ON0t6J3scU",
+      "title": "More Crockpot, Less Microwave with Lisa Harper | Joyce Meyer's Talk it Out Podcast | Episode 207",
+      "published_at": "2026-07-07T04:00:00Z",
+      "duration_sec": 2990,
+      "view_count": 23395,
+      "primary_theme": "spiritual growth through suffering",
+      "themes": [
+        "intimacy with God",
+        "transformation in Christ",
+        "commitment to God",
+        "identity in Christ",
+        "pruning and refinement",
+        "righteousness"
+      ],
+      "key_scriptures": [
+        "Hebrews 5:13",
+        "1 Peter 4:1-2",
+        "Philippians 1:29",
+        "Acts 28:20",
+        "Psalm 139",
+        "Psalm 18:33"
+      ],
+      "summary": [
+        "True spiritual growth requires a slow, painful process of refinement rather than instant transformation, involving suffering and pruning that strips away false identities and worldly attachments.",
+        "Understanding one's identity and righteousness in Christ is foundational; believers must move from spiritual infancy (milk) to maturity (meat) by embracing God's correction and the Holy Spirit's conviction.",
+        "Intimacy with God develops through committed relationship—spending time in Scripture, prayer, and God's presence—which produces peace, security, and the strength to endure life's difficulties with joy."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "rFo4KQIXg4A",
+      "title": "I Will Not Fear - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-22T08:59:54Z",
+      "duration_sec": 1767,
+      "view_count": 21335,
+      "primary_theme": "fear and faith",
+      "themes": [
+        "overcoming fear",
+        "faith in god",
+        "obedience",
+        "identity in christ",
+        "letting go",
+        "purpose"
+      ],
+      "key_scriptures": [
+        "Psalm 86:2",
+        "John 12:42-43",
+        "Acts 5:29",
+        "Galatians 1:10",
+        "Hebrews 4:12",
+        "John 3:16"
+      ],
+      "summary": [
+        "God calls us to overcome common fears—fear of not getting what we want, fear of failure, and fear of man—by trusting His will and obedience rather than our own efforts.",
+        "Peter's attempt to walk on water exemplifies that God values our willingness to try and fail over refusing to attempt what He calls us to do.",
+        "When we stop seeking approval from people and focus on pleasing God, we fulfill our destiny and experience the power of His word transforming our lives."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "Ifw7ayUzEm8",
+      "title": "Faith vs. Fear - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-18T08:59:55Z",
+      "duration_sec": 1773,
+      "view_count": 19655,
+      "primary_theme": "faith and obedience",
+      "themes": [
+        "faith",
+        "obedience",
+        "fear",
+        "courage",
+        "choice and responsibility",
+        "God's promises"
+      ],
+      "key_scriptures": [
+        "Romans 14:23",
+        "Deuteronomy 30:15",
+        "Joshua 1:1-9",
+        "2 Timothy 1:7",
+        "Hebrews 4:12"
+      ],
+      "summary": [
+        "Whatever is not done in faith is sin, and believers must choose obedience to God's word over fear, feelings, and circumstances.",
+        "God has already provided everything needed for a blessed life, but we must actively possess His promises through courageous action despite fear.",
+        "Learning obedience in small daily matters develops spiritual strength to overcome the devil's attempts to steal our destiny through fear and discouragement."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "XP6_5gZrN_s",
+      "title": "Looking Forward - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-24T08:59:51Z",
+      "duration_sec": 1766,
+      "view_count": 19275,
+      "primary_theme": "joy and gratitude",
+      "themes": [
+        "joy",
+        "gratitude",
+        "forgiveness",
+        "contentment",
+        "faith",
+        "overcoming negativity"
+      ],
+      "key_scriptures": [
+        "Psalm 27:13-14",
+        "Jeremiah 29:11",
+        "Romans 12:12",
+        "James 1:2",
+        "2 Timothy 2:3-4",
+        "Philippians 4:4",
+        "John 10:10"
+      ],
+      "summary": [
+        "God desires believers to experience joy and happiness in everyday life, not just during special occasions, and this joy becomes our strength against the enemy's attacks.",
+        "Unforgiveness, complaining, and negativity rob us of joy and weaken our spiritual power, while gratitude, forgiveness, and expectation in God strengthen us and allow us to be effective witnesses.",
+        "Christians are called to endure hardships with joy and patience, trusting that God works all things for good, and to simplify life by releasing entanglements that steal our peace."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "2xrPn8NKm1E",
+      "title": "Get Over Your Sweet Little Self - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-27T09:00:00Z",
+      "duration_sec": 1766,
+      "view_count": 19199,
+      "primary_theme": "unselfishness",
+      "themes": [
+        "unselfishness",
+        "love",
+        "trust",
+        "humility",
+        "purpose",
+        "faith"
+      ],
+      "key_scriptures": [
+        "Philippians 2:4-5",
+        "Mark 8:34",
+        "John 13:34-35",
+        "2 Corinthians 5:15",
+        "Philippians 4:5"
+      ],
+      "summary": [
+        "Selfishness prevents happiness and fulfillment; true joy comes from living unselfishly and focusing on others' wellbeing rather than constantly protecting oneself.",
+        "God asks believers to deny themselves, take up their cross of living an unselfish life, and trust Him to provide rather than relying on self-protection and self-care.",
+        "When Christians prioritize loving and serving others with genuine humility, they become effective witnesses to Christ and experience God's provision and blessing in return."
+      ],
+      "tone": "testimony",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "8-2CQr5IfJA",
+      "title": "Make the Most of Your Time - Pt 3 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-15T08:59:57Z",
+      "duration_sec": 1767,
+      "view_count": 18737,
+      "primary_theme": "purposeful living",
+      "themes": [
+        "purposeful living",
+        "time management",
+        "wisdom",
+        "eternity",
+        "decision-making",
+        "procrastination"
+      ],
+      "key_scriptures": [
+        "John 10:10",
+        "Ephesians 5:14-17",
+        "Psalm 90:12",
+        "Psalm 39:4-5",
+        "James 4:14",
+        "Revelation 22:12",
+        "1 Peter 2:1",
+        "1 Corinthians 3:11-15",
+        "Romans 14:12",
+        "Hebrews 4:12"
+      ],
+      "summary": [
+        "Christians should live intentionally and purposefully, making wise decisions with their limited time rather than procrastinating or letting others decide for them.",
+        "The brevity of life demands that believers use their days for eternal purposes, taking responsibility for their choices and not wasting time on worldly distractions.",
+        "Our works will be judged by God based on their quality and motivation, so we must serve Him with our best effort and pure intentions, understanding that heaven is our true home."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "JXcZCUTYBxY",
+      "title": "Girls Just Wanna Follow God with Christine Caine | Joyce Meyer's Talk It Out Podcast | Episode 208",
+      "published_at": "2026-07-21T03:59:59Z",
+      "duration_sec": 3256,
+      "view_count": 18271,
+      "primary_theme": "calling and purpose",
+      "themes": [
+        "calling and purpose",
+        "faith and trust",
+        "service and ministry",
+        "surrender to god",
+        "identity in christ",
+        "overcoming obstacles"
+      ],
+      "key_scriptures": [
+        "2 Timothy 2:2",
+        "Romans 12:6-8",
+        "1 Corinthians 12:4-11",
+        "2 Peter 1:10",
+        "Psalm 139:5",
+        "Ephesians 2:8-10",
+        "Ecclesiastes 3:11",
+        "John 13:34-35",
+        "Matthew 25:40"
+      ],
+      "summary": [
+        "God calls every believer to serve Him in some capacity, not just those with visible or prominent roles, and true fulfillment comes from discovering and faithfully executing that purpose regardless of circumstances.",
+        "Believers must move beyond seeking comfort, validation, and visibility to embrace full surrender to God's will, trusting that He qualifies those He calls and provides for those who step out in faith.",
+        "Living on purpose for God's purpose—whether sweeping floors, raising children, or leading ministries—brings deeper peace and satisfaction than any worldly achievement, and this calling is ultimately about loving and serving others as Christ did."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "PxXVHuhd0TE",
+      "title": "Make the Most of Your Time - Pt 4 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-16T08:59:50Z",
+      "duration_sec": 1767,
+      "view_count": 17202,
+      "primary_theme": "time management",
+      "themes": [
+        "time management",
+        "purpose",
+        "priorities",
+        "spiritual growth",
+        "obedience",
+        "avoiding worry"
+      ],
+      "key_scriptures": [
+        "Philippians 4:5",
+        "1 Corinthians 2:9",
+        "Ephesians 6:14",
+        "Philippians 3:13",
+        "Hebrews 4:12",
+        "Psalm 119:109"
+      ],
+      "summary": [
+        "God provides sufficient time to accomplish His calling without stress, so believers must examine why they do what they do and eliminate time-wasting activities like guilt, worry, and complaining.",
+        "Practical stewardship of time includes prioritizing health, rest, and relationships while avoiding distractions like social media and energy-draining emotions that hijack focus from God's purposes.",
+        "The rewards of obedience and faithful time investment are eternal, and believers should spend their one life being fruitful rather than merely busy, trusting God's grace on their genuine calling."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "znq8CecOg58",
+      "title": "I Will Not Fear - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-06-19T08:59:46Z",
+      "duration_sec": 1767,
+      "view_count": 16524,
+      "primary_theme": "identity in Christ",
+      "themes": [
+        "identity in Christ",
+        "fear",
+        "faith",
+        "grace",
+        "self-worth",
+        "unconditional love"
+      ],
+      "key_scriptures": [
+        "Romans 8:31",
+        "2 Corinthians 5:21",
+        "Colossians 2:10",
+        "Romans 6",
+        "Hebrews 4:12"
+      ],
+      "summary": [
+        "Your true identity and worth come from who you are in Christ, not from what you do or how you feel, and understanding this transforms how you live and relate to others.",
+        "Fear is a tool Satan uses to hold believers back, but faith is the antidote; you can feel fear and still move forward by choosing to obey God regardless of your emotions.",
+        "God's unconditional love and grace are the foundation for all spiritual growth; when you truly believe you are the righteousness of God in Christ, you are freed from shame, performance-based thinking, and the need to earn His approval."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "fy-KcJ8Yfag",
+      "title": "What Do You Think of Yourself? - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-01T08:59:50Z",
+      "duration_sec": 1773,
+      "view_count": 16054,
+      "primary_theme": "self-image",
+      "themes": [
+        "self-image",
+        "identity in Christ",
+        "faith",
+        "purpose",
+        "overcoming insecurity",
+        "God's word"
+      ],
+      "key_scriptures": [
+        "Mark 4:24",
+        "Matthew 11:28",
+        "2 Corinthians 5:21"
+      ],
+      "summary": [
+        "Develop a healthy self-image by refusing to speak negatively about yourself and instead declaring what God's Word says about your identity in Christ, as negative self-talk opens doors to spiritual attack.",
+        "Your confidence should rest solely in God, not in appearance, status, accomplishments, or relationships, which are all temporary and can fail you.",
+        "Be willing to follow God's direction for your life—starting new things when He calls and letting go of old things when He's finished, trusting that your value comes from Him alone, not from what you do."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "G4pQ4Brlqzs",
+      "title": "Are You an Optimist or a Pessimist?  | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-06T08:59:55Z",
+      "duration_sec": 1767,
+      "view_count": 15328,
+      "primary_theme": "positive attitude",
+      "themes": [
+        "attitude",
+        "gratitude",
+        "overcoming adversity",
+        "faith",
+        "forgiveness",
+        "God's goodness"
+      ],
+      "key_scriptures": [
+        "Proverbs 15:15",
+        "1 Corinthians 13",
+        "James 1:2-4",
+        "Romans 8:28",
+        "Ephesians 5:20",
+        "Isaiah 61:7-8",
+        "Genesis 50:20",
+        "Isaiah 61:3",
+        "1 Thessalonians 5:18",
+        "1 Corinthians 10",
+        "2 Corinthians 2:14"
+      ],
+      "summary": [
+        "Maintaining a positive, optimistic outlook transforms how we experience trials and difficulties, allowing us to see God's good purposes even in painful circumstances.",
+        "By focusing on what is good rather than what is wrong, finding gratitude in all situations, and refusing bitterness, we position ourselves to receive God's double blessing for our former troubles.",
+        "Personal testimony demonstrates that God can redeem any broken past and turn it into a beautiful story of grace that helps others, making us trophies of His victory."
+      ],
+      "tone": "testimony",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "OscCnjmK1XQ",
+      "title": "How Faith Works - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-14T08:59:51Z",
+      "duration_sec": 1766,
+      "view_count": 14438,
+      "primary_theme": "faith and patience",
+      "themes": [
+        "faith",
+        "patience",
+        "love",
+        "forgiveness",
+        "spiritual growth",
+        "perseverance"
+      ],
+      "key_scriptures": [
+        "Luke 5:4-6",
+        "Hebrews 10:36",
+        "1 Corinthians 13:13",
+        "Galatians 5:6",
+        "Mark 11:23-26",
+        "Romans 10:9",
+        "Hebrews 11:1",
+        "Ephesians 6:16",
+        "1 Peter 5:9"
+      ],
+      "summary": [
+        "Faith must be activated through love and expressed in obedience, even when circumstances seem impossible, as demonstrated by Peter lowering his nets despite exhaustion and failure.",
+        "Patience is not merely waiting but the attitude and character developed through trials, and both faith and patience are essential to receiving God's promises.",
+        "True faith operates from a place of rest and certainty, knowing God has already provided, and believers must actively use faith as a shield against the enemy's lies through God's word."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "-EqmyNCcCIg",
+      "title": "Excellence - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-07T08:59:52Z",
+      "duration_sec": 1767,
+      "view_count": 14325,
+      "primary_theme": "excellence",
+      "themes": [
+        "excellence",
+        "integrity",
+        "family relationships",
+        "unity",
+        "ambassadors for christ",
+        "choosing righteousness"
+      ],
+      "key_scriptures": [
+        "Psalm 133",
+        "2 Corinthians 5:20",
+        "Galatians 5:17"
+      ],
+      "summary": [
+        "Excellence is a deliberate choice that requires doing what is right rather than what feels comfortable, even in small matters, because believers are Christ's personal representatives to the world.",
+        "Integrity and unity are foundational to receiving God's blessing and anointing, requiring believers to keep their word, maintain excellence in all things, and avoid strife in ministry, marriage, and family.",
+        "Family relationships require intentional effort, flexibility, and the willingness to prioritize peace over being right, recognizing that petty disagreements are not worth damaging relationships."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "14hPQ6dBUtc",
+      "title": "The Cross Before the Crown - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-16T08:59:51Z",
+      "duration_sec": 1774,
+      "view_count": 13285,
+      "primary_theme": "contentment",
+      "themes": [
+        "contentment",
+        "patience",
+        "forgiveness",
+        "leadership",
+        "promotion",
+        "trust in God"
+      ],
+      "key_scriptures": [
+        "1 Samuel 24:6",
+        "1 Timothy 3:6",
+        "Acts 6:1-4",
+        "Exodus 18:14-26",
+        "Daniel 3:16-27"
+      ],
+      "summary": [
+        "True satisfaction in life comes from learning contentment rather than constantly striving for the next achievement or promotion.",
+        "God often anoints people for ministry long before promoting them, using waiting periods to develop character, teach forgiveness, and prepare them for greater responsibility.",
+        "When we release unforgiveness, stop complicating life, delegate appropriately, and trust God's timing, He promotes us in ways that exceed our expectations."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate"
+    },
+    {
+      "video_id": "xvasTgP0UTA",
+      "title": "Dealing with Stress - Pt 2 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-03T08:59:47Z",
+      "duration_sec": 1767,
+      "view_count": 13060,
+      "primary_theme": "simplifying life",
+      "themes": [
+        "peace",
+        "faith",
+        "prayer",
+        "boundaries",
+        "identity in Christ",
+        "forgiveness"
+      ],
+      "key_scriptures": [
+        "1 Corinthians 14:33",
+        "James 4:1-2",
+        "Psalm 147:14",
+        "Numbers 11:10-14"
+      ],
+      "summary": [
+        "Simplifying life requires establishing peace through practical changes like identifying peace stealers, asking God for what you need, and being yourself without comparing to others.",
+        "Healthy relationships depend on boundaries, quick forgiveness, believing the best in people, and not trying to change or control others—instead praying for them.",
+        "Overextending yourself by doing work meant for others leads to burnout; God provides help and rest when we ask, as demonstrated through the examples of Moses and Elijah."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "J3IFpESmmVs",
+      "title": "Freedom of Self-Control - Pt 1 | Enjoying Everyday Life | Joyce Meyer",
+      "published_at": "2026-07-30T08:59:50Z",
+      "duration_sec": 1774,
+      "view_count": 12926,
+      "primary_theme": "self-control",
+      "themes": [
+        "self-control",
+        "discipline",
+        "readiness",
+        "stewardship",
+        "fruit of the spirit",
+        "obedience"
+      ],
+      "key_scriptures": [
+        "Matthew 25:1-13",
+        "2 Timothy 1:7",
+        "Galatians 5:22-23",
+        "Galatians 5:25",
+        "Matthew 12:33",
+        "Ephesians 2:10",
+        "2 Peter 1:3",
+        "Ecclesiastes 5:3"
+      ],
+      "summary": [
+        "Self-control is not legalism but spirit-led management of life that brings true freedom and prepares us for Christ's return.",
+        "The parable of the ten virgins illustrates how discipline and forethought in daily choices determine readiness for eternity, while foolishness and lack of preparation result in being unprepared when opportunity arrives.",
+        "God has prepared a good life for every believer, but we must do our part through developing self-control in finances, time, health, relationships, and spiritual disciplines to walk in the fullness of what Jesus died to give us."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
+    },
+    {
+      "video_id": "56QkUF5KKZE",
+      "title": "Have a Healthy Attitude Toward Yourself | 15 Minutes In The Word with Joyce Meyer",
+      "published_at": "2026-07-09T10:59:53Z",
+      "duration_sec": 926,
+      "view_count": 12256,
+      "primary_theme": "identity in Christ",
+      "themes": [
+        "identity in Christ",
+        "self-acceptance",
+        "joy",
+        "peace",
+        "righteousness",
+        "relationships"
+      ],
+      "key_scriptures": [
+        "1 Peter 3:10",
+        "Romans 14:17",
+        "Isaiah 61:1",
+        "Galatians 5:14",
+        "Jeremiah 17:7"
+      ],
+      "summary": [
+        "God created each person uniquely and loves them unconditionally; succeeding at being yourself requires accepting who you are in Christ rather than wishing to be someone else.",
+        "True joy and peace flow from understanding your righteousness in Christ, which produces right behavior naturally and allows you to enjoy life at every stage of growth.",
+        "All relationships are determined by how you feel about yourself; when you have peace with God and yourself, you can extend genuine peace and love to others."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro"
     }
   ]
 }

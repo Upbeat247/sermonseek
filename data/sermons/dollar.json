@@ -1,0 +1,41 @@
+{
+  "pastor": "dollar",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_dollar_grace",
+      "title": "Understanding Grace",
+      "published_at": "2023-12-01",
+      "duration_sec": 3540,
+      "view_count": 230000,
+      "primary_theme": "grace",
+      "themes": ["grace", "law vs grace", "righteousness"],
+      "key_scriptures": ["Romans 6:14", "Ephesians 2:8-9", "Titus 2:11-12"],
+      "summary": [
+        "Grace is God's unmerited empowerment to live above sin.",
+        "You cannot mix law and grace — they operate on different principles.",
+        "Grace teaches, empowers, and produces holiness in the believer."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_dollar_faith",
+      "title": "How Faith Works",
+      "published_at": "2023-06-22",
+      "duration_sec": 3180,
+      "view_count": 190000,
+      "primary_theme": "faith",
+      "themes": ["faith", "confession", "manifestation"],
+      "key_scriptures": ["Hebrews 11:1", "Mark 11:22-24", "Romans 10:17"],
+      "summary": [
+        "Faith is the substance of things hoped for — it gives evidence in the unseen realm.",
+        "Faith comes by hearing, then hearing, then hearing the Word.",
+        "Believe it in the heart, speak it with the mouth, act like it is done."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    }
+  ]
+}

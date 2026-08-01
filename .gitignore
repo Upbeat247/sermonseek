@@ -1,0 +1,9 @@
+.env
+.env.local
+scripts/.cache/
+scripts/__pycache__/
+scripts/venv/
+*.pyc
+.DS_Store
+node_modules/
+.netlify/

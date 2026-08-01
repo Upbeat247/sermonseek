@@ -1,0 +1,41 @@
+{
+  "pastor": "iren",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_iren_identity",
+      "title": "Who You Are in Christ",
+      "published_at": "2024-03-10",
+      "duration_sec": 3600,
+      "view_count": 175000,
+      "primary_theme": "identity",
+      "themes": ["identity in Christ", "grace", "sonship"],
+      "key_scriptures": ["2 Corinthians 5:17", "Ephesians 1:3-6", "Galatians 2:20"],
+      "summary": [
+        "Your identity is not what you feel or what people say — it's what God says.",
+        "Every believer is a new creation with a new nature and new authority.",
+        "Right believing about identity produces right living."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_iren_purpose",
+      "title": "Living With Purpose in Your Generation",
+      "published_at": "2023-09-15",
+      "duration_sec": 3300,
+      "view_count": 120000,
+      "primary_theme": "purpose",
+      "themes": ["purpose", "kingdom", "generation"],
+      "key_scriptures": ["Acts 13:36", "Esther 4:14", "Ephesians 2:10"],
+      "summary": [
+        "Every generation has an assignment God intends to fulfil through willing believers.",
+        "Serving your generation begins with discovering your specific grace.",
+        "Consistency and character make purpose sustainable."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    }
+  ]
+}

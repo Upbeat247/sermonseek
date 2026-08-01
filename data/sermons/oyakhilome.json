@@ -1,0 +1,41 @@
+{
+  "pastor": "oyakhilome",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_oyakhilome_word",
+      "title": "The Power of the Word in Your Mouth",
+      "published_at": "2024-01-20",
+      "duration_sec": 3300,
+      "view_count": 460000,
+      "primary_theme": "the word",
+      "themes": ["the word", "confession", "faith"],
+      "key_scriptures": ["Mark 11:23", "Proverbs 18:21", "Romans 10:8"],
+      "summary": [
+        "Your words carry creative power when aligned with God's Word.",
+        "Faith is released through confession, not just belief.",
+        "Frame your world daily by declaring what God has said."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_oyakhilome_love",
+      "title": "Walking in the God-Kind of Love",
+      "published_at": "2023-11-05",
+      "duration_sec": 3120,
+      "view_count": 280000,
+      "primary_theme": "love",
+      "themes": ["love", "the fruit of the spirit", "relationships"],
+      "key_scriptures": ["1 Corinthians 13", "Galatians 5:22", "John 13:34-35"],
+      "summary": [
+        "The love of God has been poured into your heart by the Holy Spirit.",
+        "Love is not a feeling but a decision that seeks the other's good.",
+        "The Christian life fails without love as its foundation."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro",
+      "sample": true
+    }
+  ]
+}

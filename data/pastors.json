@@ -1,0 +1,67 @@
+{
+  "pastors": [
+    {
+      "slug": "wommack",
+      "name": "Andrew Wommack",
+      "handle": "@andrewwommackmin",
+      "bio": "Grace-and-faith teacher, founder of Charis Bible College. Emphasises the finished work of the cross.",
+      "channel_id": "UC8H3lzJU5Qm-s3WVroB87kw",
+      "accent": "teal",
+      "avatar_initial": "AW"
+    },
+    {
+      "slug": "prince",
+      "name": "Joseph Prince",
+      "handle": "@josephprince",
+      "bio": "New Creation Church, Singapore. Passionate teacher of the gospel of grace and Christ's finished work.",
+      "channel_id": "UCJRSBsjLPipnu8y03qa2_Iw",
+      "accent": "blue",
+      "avatar_initial": "JP"
+    },
+    {
+      "slug": "dollar",
+      "name": "Creflo Dollar",
+      "handle": "@creflodollar1",
+      "bio": "World Changers Church International. Grace-based teacher on faith, prosperity, and identity in Christ.",
+      "channel_id": "UCBEcQzSjUXZcoeK7_Yy69sA",
+      "accent": "gold",
+      "avatar_initial": "CD"
+    },
+    {
+      "slug": "iren",
+      "name": "Emmanuel Iren",
+      "handle": "@pst_iren",
+      "bio": "Lead Pastor of Celebration Church International. Sound biblical teaching for the new generation.",
+      "channel_id": "UC0LnPAjiEk6pZqd7bIzq4sw",
+      "accent": "green",
+      "avatar_initial": "EI"
+    },
+    {
+      "slug": "selman",
+      "name": "Joshua Selman",
+      "handle": "@koinoniaglobal",
+      "bio": "Koinonia Global. Deep expository teaching on kingdom, dominion, and the anointing.",
+      "channel_id": "UCq2ueL6wl7slTuInRbFpe7w",
+      "accent": "orange",
+      "avatar_initial": "JS"
+    },
+    {
+      "slug": "meyer",
+      "name": "Joyce Meyer",
+      "handle": "@joycemeyer",
+      "bio": "Joyce Meyer Ministries. Practical, everyday teaching on renewing the mind and living your best life.",
+      "channel_id": "UCER2LBsm4hB_Kxte63RoftQ",
+      "accent": "orange",
+      "avatar_initial": "JM"
+    },
+    {
+      "slug": "oyakhilome",
+      "name": "Chris Oyakhilome",
+      "handle": "@watchpastorchris",
+      "bio": "LoveWorld / Christ Embassy. Teacher on the Word, the Spirit, and the believer's authority in Christ.",
+      "channel_id": "UCOGnLDJABiBR8RDNbXbRqgA",
+      "accent": "teal",
+      "avatar_initial": "CO"
+    }
+  ]
+}

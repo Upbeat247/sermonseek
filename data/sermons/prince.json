@@ -1,0 +1,59 @@
+{
+  "pastor": "prince",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_prince_finished_work",
+      "title": "The Finished Work of Jesus",
+      "published_at": "2024-01-14",
+      "duration_sec": 4020,
+      "view_count": 512000,
+      "primary_theme": "grace",
+      "themes": ["grace", "the cross", "rest", "righteousness"],
+      "key_scriptures": ["John 19:30", "Hebrews 10:12-14", "Romans 5:17"],
+      "summary": [
+        "Jesus' cry 'It is finished' means the debt for sin has been paid in full.",
+        "Believers rest in what Christ accomplished, not in their own performance.",
+        "The gift of righteousness is received, not earned."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_prince_love_walk",
+      "title": "Rooted and Grounded in Love",
+      "published_at": "2023-09-20",
+      "duration_sec": 3600,
+      "view_count": 198000,
+      "primary_theme": "love",
+      "themes": ["love", "the Father's heart", "healing"],
+      "key_scriptures": ["Ephesians 3:17-19", "1 John 4:16"],
+      "summary": [
+        "Receiving God's love produces inner healing and stability.",
+        "The knowledge of being loved by God transforms how we love others.",
+        "Meditate on the Father's love until it becomes your default posture."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_prince_favor",
+      "title": "Living in the Favor of God",
+      "published_at": "2023-05-08",
+      "duration_sec": 3300,
+      "view_count": 340000,
+      "primary_theme": "favor",
+      "themes": ["favor", "grace", "prosperity"],
+      "key_scriptures": ["Psalm 5:12", "Luke 2:52", "Proverbs 3:4"],
+      "summary": [
+        "Favor is unearned goodness that follows grace-conscious believers.",
+        "Expect favor with God and with people daily.",
+        "Confess favor over your day, work, and family."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intro",
+      "sample": true
+    }
+  ]
+}

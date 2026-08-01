@@ -1,0 +1,59 @@
+{
+  "pastor": "selman",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_selman_kingdom",
+      "title": "Understanding the Kingdom of God",
+      "published_at": "2024-02-25",
+      "duration_sec": 5400,
+      "view_count": 890000,
+      "primary_theme": "kingdom",
+      "themes": ["kingdom of God", "dominion", "spiritual authority"],
+      "key_scriptures": ["Matthew 6:33", "Luke 17:21", "Daniel 7:14"],
+      "summary": [
+        "The kingdom of God is the government of God expressed on earth.",
+        "Every believer is a carrier of kingdom culture, principles, and power.",
+        "Seeking the kingdom first re-orders every other priority."
+      ],
+      "tone": "teaching",
+      "difficulty": "deep",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_selman_prayer",
+      "title": "The Currency of Prayer",
+      "published_at": "2023-08-12",
+      "duration_sec": 4980,
+      "view_count": 620000,
+      "primary_theme": "prayer",
+      "themes": ["prayer", "intercession", "spiritual warfare"],
+      "key_scriptures": ["Ephesians 6:18", "James 5:16", "Luke 18:1"],
+      "summary": [
+        "Prayer is the primary means by which spiritual authority is administered.",
+        "Consistent prayer builds spiritual capacity and sensitivity to the Spirit.",
+        "Kingdom-minded prayer prioritises God's will over personal comfort."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_selman_purpose",
+      "title": "Discovering Your Assignment",
+      "published_at": "2023-04-18",
+      "duration_sec": 4200,
+      "view_count": 410000,
+      "primary_theme": "purpose",
+      "themes": ["purpose", "identity", "destiny"],
+      "key_scriptures": ["Jeremiah 1:5", "Ephesians 2:10", "Psalm 139:16"],
+      "summary": [
+        "Every person has a divine assignment attached to their existence.",
+        "Purpose is discovered in the presence of God, not in trend chasing.",
+        "Alignment with purpose brings peace, provision, and unusual grace."
+      ],
+      "tone": "teaching",
+      "difficulty": "intermediate",
+      "sample": true
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pastor": "meyer",
+  "sermons": [
+    {
+      "video_id": "SAMPLE_meyer_mind",
+      "title": "The Battlefield of the Mind",
+      "published_at": "2023-10-30",
+      "duration_sec": 2760,
+      "view_count": 780000,
+      "primary_theme": "renewing the mind",
+      "themes": ["renewing the mind", "thought life", "victory"],
+      "key_scriptures": ["Romans 12:2", "2 Corinthians 10:5", "Philippians 4:8"],
+      "summary": [
+        "The battle for your life is won or lost in your thought life.",
+        "Wrong thinking produces wrong emotions and wrong behaviour.",
+        "Renew the mind daily by meditating on God's Word."
+      ],
+      "tone": "teaching",
+      "difficulty": "intro",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_meyer_love_yourself",
+      "title": "Loving Yourself the Way God Does",
+      "published_at": "2023-07-04",
+      "duration_sec": 2400,
+      "view_count": 320000,
+      "primary_theme": "love",
+      "themes": ["love", "self-worth", "identity"],
+      "key_scriptures": ["Matthew 22:39", "Psalm 139:14", "1 John 4:19"],
+      "summary": [
+        "You can't love others well until you receive God's love for yourself.",
+        "Rejecting yourself is rejecting God's workmanship.",
+        "Practise thanking God for who He made you to be."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intro",
+      "sample": true
+    },
+    {
+      "video_id": "SAMPLE_meyer_worry",
+      "title": "Freedom from Worry and Anxiety",
+      "published_at": "2022-12-11",
+      "duration_sec": 2580,
+      "view_count": 540000,
+      "primary_theme": "peace",
+      "themes": ["peace", "anxiety", "trust"],
+      "key_scriptures": ["Philippians 4:6-7", "1 Peter 5:7", "Matthew 6:25-34"],
+      "summary": [
+        "Worry is meditating on the problem instead of the Problem-solver.",
+        "Cast your cares — don't carry what God offered to carry.",
+        "Praying with thanksgiving guards the heart with supernatural peace."
+      ],
+      "tone": "encouragement",
+      "difficulty": "intro",
+      "sample": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "playlists": [
+    {
+      "id": "grace-101",
+      "title": "Understanding Grace — a 5-sermon journey",
+      "description": "Grace is the foundation of the gospel. Start here.",
+      "theme": "grace",
+      "video_ids": [
+        "SAMPLE_prince_finished_work",
+        "SAMPLE_wommack_grace_faith",
+        "SAMPLE_dollar_grace",
+        "SAMPLE_iren_identity",
+        "SAMPLE_prince_favor"
+      ]
+    },
+    {
+      "id": "love-week",
+      "title": "7 Days on the Love of God",
+      "description": "Different pastors, one theme: God's love for you.",
+      "theme": "love",
+      "video_ids": [
+        "SAMPLE_wommack_love_god",
+        "SAMPLE_prince_love_walk",
+        "SAMPLE_oyakhilome_love",
+        "SAMPLE_meyer_love_yourself"
+      ]
+    },
+    {
+      "id": "mind-renewal",
+      "title": "Renewing Your Mind",
+      "description": "Change your thinking, change your life.",
+      "theme": "renewing the mind",
+      "video_ids": [
+        "SAMPLE_meyer_mind",
+        "SAMPLE_meyer_worry",
+        "SAMPLE_iren_identity"
+      ]
+    }
+  ]
+}

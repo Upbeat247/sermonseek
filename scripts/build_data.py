@@ -10,6 +10,8 @@ from pathlib import Path
 
 from common import CACHE, DATA, load_pastors, read_json, write_json
 
+UTC = dt.timezone.utc
+
 
 def build_pastor(slug):
     videos = read_json(CACHE / "videos" / f"{slug}.json")
@@ -56,7 +58,7 @@ def main():
                 "views": s["view_count"],
             })
     write_json(DATA / "search_index.json", {
-        "generated_at": dt.datetime.utcnow().isoformat() + "Z",
+        "generated_at": dt.datetime.now(UTC).isoformat(),
         "sermons": all_index,
     })
     print(f"wrote search_index.json with {len(all_index)} sermons")

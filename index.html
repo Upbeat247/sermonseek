@@ -225,7 +225,9 @@
     .sermon-grid {
       display: grid; gap: 1rem;
       grid-template-columns: 1fr;
+      animation: sermon-grid-in 180ms ease-out;
     }
+    @keyframes sermon-grid-in { from { opacity: 0.35 } to { opacity: 1 } }
     @media (min-width: 640px) { .sermon-grid { grid-template-columns: repeat(2, 1fr); } }
     @media (min-width: 960px) { .sermon-grid { grid-template-columns: repeat(3, 1fr); } }
 
@@ -765,6 +767,7 @@
     document.getElementById('q-theme').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
     document.getElementById('q-pastor').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
 
+    resetSearchCaches();   // fresh mount — force full first render
     renderSearchResults();
   }
 
@@ -776,30 +779,61 @@
     renderSearchResults();
   }
 
-  // Re-renders only #search-results + updates the chip active states in place.
+  // Cached "signatures" so we skip DOM writes when nothing meaningful changed.
+  // Keystroke-fast typing was tearing down and re-creating every card + <img>
+  // per keystroke, which briefly repainted thumbnails as blank → visible flicker.
+  let _lastResultsSig = null;
+  let _lastHeaderSig = null;
+  let _lastChipsSig = null;
+
   function renderSearchResults() {
     const container = document.getElementById('search-results');
     if (!container) return;
+
     const results = search(state.filters.theme, state.filters.pastors);
-    container.innerHTML = `
-      <div class="section-head">
+    const resultsSig = results.map(r => r.id).join('|');
+    const headerSig = results.length + '|' + state.filters.theme + '|' + state.filters.pastors.length;
+    const chipsSig = state.filters.pastors.slice().sort().join('|');
+
+    // ---- Grid: only rewrite when the actual result set changes ----
+    if (resultsSig !== _lastResultsSig) {
+      _lastResultsSig = resultsSig;
+      const grid = container.querySelector('.sermon-grid, .empty');
+      const newGridHtml = results.length
+        ? `<div class="sermon-grid">${results.map(s => sermonCardHtml(s)).join('')}</div>`
+        : `<div class="empty"><h3>Nothing found</h3><p>Try a broader theme or clear the pastor filter.</p></div>`;
+      if (grid) grid.outerHTML = newGridHtml;
+      else container.insertAdjacentHTML('beforeend', newGridHtml);
+    }
+
+    // ---- Header: text-only update, no img teardown ----
+    if (headerSig !== _lastHeaderSig) {
+      _lastHeaderSig = headerSig;
+      let head = container.querySelector('.section-head');
+      const headHtml = `
         <h2>${results.length} result${results.length === 1 ? '' : 's'}${state.filters.theme ? ' for "' + escapeHtml(state.filters.theme) + '"' : ''}</h2>
         ${state.filters.theme || state.filters.pastors.length ? `<a class="link" onclick="clearFilters()">Clear filters</a>` : ''}
-      </div>
-      ${results.length ? `
-        <div class="sermon-grid">${results.map(s => sermonCardHtml(s)).join('')}</div>
-      ` : `
-        <div class="empty">
-          <h3>Nothing found</h3>
-          <p>Try a broader theme or clear the pastor filter.</p>
-        </div>
-      `}
-    `;
-    // Sync chip active states without re-rendering the whole chip row
-    const chipRow = document.getElementById('pastor-chip-row');
-    if (chipRow) {
-      chipRow.innerHTML = pastorChipsHtml(state.filters.pastors);
+      `;
+      if (head) {
+        head.innerHTML = headHtml;
+      } else {
+        container.insertAdjacentHTML('afterbegin', `<div class="section-head">${headHtml}</div>`);
+      }
     }
+
+    // ---- Chip row: only rewrite when pastor filter changes ----
+    if (chipsSig !== _lastChipsSig) {
+      _lastChipsSig = chipsSig;
+      const chipRow = document.getElementById('pastor-chip-row');
+      if (chipRow) chipRow.innerHTML = pastorChipsHtml(state.filters.pastors);
+    }
+  }
+
+  // Reset caches when leaving the search screen so a return fully re-renders
+  function resetSearchCaches() {
+    _lastResultsSig = null;
+    _lastHeaderSig = null;
+    _lastChipsSig = null;
   }
 
   async function renderDetail(id) {

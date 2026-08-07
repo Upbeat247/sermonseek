@@ -737,7 +737,8 @@
       <div class="sermon-grid">${popular.map(s => sermonCardHtml(s)).join('')}</div>
     `;
 
-    document.getElementById('q-theme').addEventListener('input', debounce(runSearchFromInputs, 300));
+    // On Home, typing is quiet — we only jump to /search on Enter or Search click.
+    // (Auto-navigating on every keystroke would tear down the input mid-typing.)
     document.getElementById('q-theme').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
     document.getElementById('q-pastor').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
   }

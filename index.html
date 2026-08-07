@@ -742,7 +742,6 @@
 
   function renderSearch() {
     const app = document.getElementById('app');
-    const results = search(state.filters.theme, state.filters.pastors);
     app.innerHTML = `
       <section class="hero" style="margin-bottom:1rem">
         <div class="search-row">
@@ -756,8 +755,33 @@
           </label>
           <button class="btn btn-primary btn-lg" onclick="runSearchFromInputs()">Search</button>
         </div>
-        <div class="chip-row">${pastorChipsHtml(state.filters.pastors)}</div>
+        <div class="chip-row" id="pastor-chip-row">${pastorChipsHtml(state.filters.pastors)}</div>
       </section>
+      <div id="search-results"></div>
+    `;
+
+    // Wire input handlers ONCE — they call the lightweight updater, not route()
+    document.getElementById('q-theme').addEventListener('input', debounce(handleSearchInput, 200));
+    document.getElementById('q-theme').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
+    document.getElementById('q-pastor').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
+
+    renderSearchResults();
+  }
+
+  // Called on every keystroke — updates state + refreshes ONLY the results section.
+  // Keeping the input DOM stable prevents the focus-flash / flicker.
+  function handleSearchInput() {
+    const t = document.getElementById('q-theme');
+    if (t) state.filters.theme = t.value.trim();
+    renderSearchResults();
+  }
+
+  // Re-renders only #search-results + updates the chip active states in place.
+  function renderSearchResults() {
+    const container = document.getElementById('search-results');
+    if (!container) return;
+    const results = search(state.filters.theme, state.filters.pastors);
+    container.innerHTML = `
       <div class="section-head">
         <h2>${results.length} result${results.length === 1 ? '' : 's'}${state.filters.theme ? ' for "' + escapeHtml(state.filters.theme) + '"' : ''}</h2>
         ${state.filters.theme || state.filters.pastors.length ? `<a class="link" onclick="clearFilters()">Clear filters</a>` : ''}
@@ -771,10 +795,11 @@
         </div>
       `}
     `;
-
-    document.getElementById('q-theme').addEventListener('input', debounce(runSearchFromInputs, 300));
-    document.getElementById('q-theme').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
-    document.getElementById('q-pastor').addEventListener('keydown', e => { if (e.key === 'Enter') runSearchFromInputs(); });
+    // Sync chip active states without re-rendering the whole chip row
+    const chipRow = document.getElementById('pastor-chip-row');
+    if (chipRow) {
+      chipRow.innerHTML = pastorChipsHtml(state.filters.pastors);
+    }
   }
 
   async function renderDetail(id) {
@@ -1014,9 +1039,10 @@
     const i = state.filters.pastors.indexOf(slug);
     if (i >= 0) state.filters.pastors.splice(i, 1);
     else state.filters.pastors.push(slug);
-    if (window.location.hash.startsWith('#/search') || state.filters.theme) {
-      if (window.location.hash === '#/search') route();
-      else navigate('#/search');
+    if (window.location.hash === '#/search') {
+      renderSearchResults();                              // lightweight in-place update
+    } else if (state.filters.theme || state.filters.pastors.length) {
+      navigate('#/search');
     } else {
       route();
     }
@@ -1035,13 +1061,17 @@
       p.value = '';
     }
     if (window.location.hash !== '#/search') navigate('#/search');
-    else route();
+    else renderSearchResults();                           // stay put, just refresh results
   }
 
   function clearFilters() {
     state.filters.theme = '';
     state.filters.pastors = [];
-    route();
+    // Clear input DOM in place so the value visibly disappears
+    const t = document.getElementById('q-theme');
+    if (t) t.value = '';
+    if (window.location.hash === '#/search') renderSearchResults();
+    else route();
   }
 
   function updateActiveTab() {

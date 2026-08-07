@@ -1,15 +1,20 @@
-const CACHE = 'sermonseek-v1';
-const SHELL = [
-  './',
-  './index.html',
-  './manifest.json',
+// Bump this version whenever the app shell (index.html / sw.js) changes.
+// Any change to CACHE flushes all previously-cached shells on activate.
+const CACHE = 'sermonseek-v3';
+
+const DATA = [
   './data/pastors.json',
   './data/playlists.json',
   './data/search_index.json',
 ];
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // Warm the data cache (never the HTML — that must always come from network).
+  e.waitUntil(
+    caches.open(CACHE)
+      .then(c => c.addAll(DATA).catch(() => {}))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', e => {
@@ -22,9 +27,29 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
-  if (url.origin !== self.location.origin) return;   // let youtube etc. bypass
+  if (url.origin !== self.location.origin) return;
 
-  // Stale-while-revalidate for data files; cache-first for shell
+  // NETWORK-FIRST for the HTML shell + JS + manifest so users always see
+  // the latest deployed code. Falls back to cache only when offline.
+  const isShell = url.pathname === '/' ||
+                  url.pathname.endsWith('/index.html') ||
+                  url.pathname.endsWith('/manifest.json') ||
+                  url.pathname.endsWith('/sw.js');
+
+  if (isShell) {
+    e.respondWith(
+      fetch(e.request).then(resp => {
+        if (resp.ok) {
+          const clone = resp.clone();
+          caches.open(CACHE).then(c => c.put(e.request, clone));
+        }
+        return resp;
+      }).catch(() => caches.match(e.request).then(cached => cached || caches.match('./index.html')))
+    );
+    return;
+  }
+
+  // STALE-WHILE-REVALIDATE for data files.
   if (url.pathname.includes('/data/')) {
     e.respondWith(
       caches.open(CACHE).then(cache =>
@@ -40,6 +65,7 @@ self.addEventListener('fetch', e => {
     return;
   }
 
+  // CACHE-FIRST for images, fonts, icons — they rarely change.
   e.respondWith(
     caches.match(e.request).then(cached => cached || fetch(e.request).then(resp => {
       if (resp.ok && resp.type === 'basic') {
@@ -47,6 +73,6 @@ self.addEventListener('fetch', e => {
         caches.open(CACHE).then(c => c.put(e.request, clone));
       }
       return resp;
-    }).catch(() => caches.match('./index.html')))
+    }))
   );
 });
